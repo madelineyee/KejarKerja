@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-820.000000, -936.000000)" fill="#DDDDDD">
+            <g id="Social" transform="translate(100.000000, 849.000000)">
+                <g id="Contacts" transform="translate(720.000000, 87.000000)">
+                    <g id="Mail-Icon">
+                        <path d="M20,13.625 C20,14.375 19.4002307,15 18.7312572,15 L1.26874279,15 C0.599769319,15 0,14.375 0,13.625 L0,1.425 C0,0.7 0.553633218,0.1 1.22260669,0.075 L1.24567474,0 L18.7081892,0 L18.7312572,0.075 L19.0311419,0.075 L18.7312572,0.075 C19.4232987,0.075 20,0.675 20,1.425 L20,13.625 Z M18.4544406,11.675 L18.4544406,3.325 L13.4025375,7.5 L18.4544406,11.675 Z M18.4544406,1.675 L1.5455594,1.675 C4.35986159,3.975 7.17416378,6.275 9.98846597,8.6 C12.8027682,6.275 15.6170704,3.975 18.4544406,1.675 L18.4544406,1.675 Z M18.4544406,13.325 L12.3644752,8.35 L10.7497116,9.7 L9.20415225,9.7 L7.61245675,8.375 L1.5455594,13.325 L18.4544406,13.325 Z M6.57439446,7.5 L1.5455594,3.325 L1.5455594,11.675 L6.57439446,7.5 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

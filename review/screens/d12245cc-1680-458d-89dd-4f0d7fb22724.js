@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607060341076.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607060341076-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Log In page" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607060341076.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607060341076-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607060341076-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607108593741.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607108593741-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1607108593741-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text"   datasizewidth="162.7px" datasizeheight="18.0px" dataX="102.5" dataY="505.0" >\
         <div class="backgroundLayer">\
@@ -43,11 +43,11 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="s-Input_1" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="306.0px" datasizeheight="45.0px" dataX="40.0" dataY="335.0" ><div class="backgroundLayer">\
+      <div id="s-Input_1" class="pie text firer click commentable non-processed" customid="Input"  datasizewidth="306.0px" datasizeheight="45.0px" dataX="40.0" dataY="335.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Email Address"/></div></div>  </div></div></div>\
-      <div id="s-Input_2" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="306.0px" datasizeheight="45.0px" dataX="40.0" dataY="388.5" ><div class="backgroundLayer">\
+      <div id="s-Input_2" class="pie text firer click commentable non-processed" customid="Input"  datasizewidth="306.0px" datasizeheight="45.0px" dataX="40.0" dataY="388.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Password"/></div></div>  </div></div></div>\
