@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-94fe5d27-2f3a-4efc-a455-7317228c45dd" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Course" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607108593741.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607108593741-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607108593741-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607172761684.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607172761684-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/94fe5d27-2f3a-4efc-a455-7317228c45dd-1607172761684-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header_11" datasizewidth="375.0px" datasizeheight="73.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_40"   datasizewidth="375.0px" datasizeheight="73.0px" datasizewidthpx="375.0" datasizeheightpx="73.0" dataX="1.0" dataY="32.0" >\
@@ -196,8 +196,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
       <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group 14" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
-          <div id="s-Paragraph_13" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="182.0px" datasizeheight="69.0px" dataX="45.0" dataY="743.0" >\
+        <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
+          <div id="s-Paragraph_4" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="182.0px" datasizeheight="69.0px" dataX="45.0" dataY="743.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -206,7 +206,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Paragraph_13_0">Full Stack Developer at Appleseeds</span>\
+                    <span id="rtr-s-Paragraph_4_0">Full Stack Developer at Appleseeds</span>\
                   </div>\
                 </div>\
               </div>\
@@ -227,8 +227,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
 \
 \
-        <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
-          <div id="s-Paragraph_15" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="223.0px" datasizeheight="92.0px" dataX="41.0" dataY="804.0" >\
+        <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
+          <div id="s-Paragraph_5" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="223.0px" datasizeheight="92.0px" dataX="41.0" dataY="804.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -237,7 +237,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Paragraph_15_0">Senior Full Stack Developer at Meekco.asia</span>\
+                    <span id="rtr-s-Paragraph_5_0">Senior Full Stack Developer at Meekco.asia</span>\
                   </div>\
                 </div>\
               </div>\
@@ -258,8 +258,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
 \
 \
-        <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
-          <div id="s-Paragraph_17" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="207.0px" datasizeheight="92.0px" dataX="39.0" dataY="864.0" >\
+        <div id="s-Group_6" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
+          <div id="s-Paragraph_6" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="207.0px" datasizeheight="92.0px" dataX="39.0" dataY="864.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -268,7 +268,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Paragraph_17_0">E-Commerce Full Stack Developer at Giftr.my</span>\
+                    <span id="rtr-s-Paragraph_6_0">E-Commerce Full Stack Developer at Giftr.my</span>\
                   </div>\
                 </div>\
               </div>\
@@ -289,8 +289,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
 \
 \
-        <div id="s-Group_11" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
-          <div id="s-Paragraph_19" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="216.0px" datasizeheight="69.0px" dataX="38.0" dataY="925.0" >\
+        <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Item-1_17" datasizewidth="375.0px" datasizeheight="65.0px" >\
+          <div id="s-Paragraph_7" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_39"   datasizewidth="216.0px" datasizeheight="69.0px" dataX="38.0" dataY="925.0" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -299,7 +299,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Paragraph_19_0">Full Stack Developer at Shopee</span>\
+                    <span id="rtr-s-Paragraph_7_0">Full Stack Developer at Shopee</span>\
                   </div>\
                 </div>\
               </div>\
@@ -322,7 +322,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
 \
-      <div id="s-Image_11" class="pie image lockV firer toggle ie-background commentable non-processed" customid="Like-icon"   datasizewidth="21.0px" datasizeheight="20.2px" dataX="287.0" dataY="276.3" aspectRatio="0.9629629"   alt="image" systemName="./images/7f273b58-adc7-4f46-8627-75d7c30279c8.svg" overlay="#CCCCCC">\
+      <div id="s-Image_6" class="pie image lockV firer toggle ie-background commentable non-processed" customid="Like-icon"   datasizewidth="21.0px" datasizeheight="20.2px" dataX="287.0" dataY="276.3" aspectRatio="0.9629629"   alt="image" systemName="./images/7f273b58-adc7-4f46-8627-75d7c30279c8.svg" overlay="#CCCCCC">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -331,16 +331,16 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           	    <title>Page 1</title>\
           	    <desc>Created with Sketch.</desc>\
           	    <defs>\
-          	        <polygon id="s-Image_11-path-1" points="0 0 27 0 27 26 0 26" fill="#CCCCCC" jimofill=" " />\
+          	        <polygon id="s-Image_6-path-1" points="0 0 27 0 27 26 0 26" fill="#CCCCCC" jimofill=" " />\
           	    </defs>\
-          	    <g fill="none" fill-rule="evenodd" id="s-Image_11-Page-1" stroke="none" stroke-width="1">\
-          	        <g id="s-Image_11-Slide-menu-4-Copy" transform="translate(-30.000000, -305.000000)">\
-          	            <g id="s-Image_11-Page-1" transform="translate(30.000000, 305.000000)">\
-          	                <mask fill="white" id="s-Image_11-mask-2">\
-          	                    <use xlink:href="#s-Image_11-path-1" style="fill:#CCCCCC !important;" />\
+          	    <g fill="none" fill-rule="evenodd" id="s-Image_6-Page-1" stroke="none" stroke-width="1">\
+          	        <g id="s-Image_6-Slide-menu-4-Copy" transform="translate(-30.000000, -305.000000)">\
+          	            <g id="s-Image_6-Page-1" transform="translate(30.000000, 305.000000)">\
+          	                <mask fill="white" id="s-Image_6-mask-2">\
+          	                    <use xlink:href="#s-Image_6-path-1" style="fill:#CCCCCC !important;" />\
           	                </mask>\
-          	                <g id="s-Image_11-Clip-2" />\
-          	                <path d="M5.66971769,11.4112424 L5.66971769,23.6789916 L5.66422909,23.6789916 L5.66422909,23.7172563 L1.59169228,23.7172563 L1.59169228,11.4112424 L5.66971769,11.4112424 Z M16.7347782,10.1685978 L23.161867,10.1685978 C23.67774,10.1685978 24.1858191,10.3609613 24.5929631,10.7105441 C25.2069721,11.2346445 25.5047832,12.0672712 25.370148,12.88353 L23.899095,22.0368942 L23.8928929,22.0691373 C23.7963485,22.8474051 23.4998547,23.4389477 23.0118089,23.8272331 C22.5190429,24.219241 21.8161186,24.4180094 20.9225206,24.4180094 L9.51722214,24.4180094 C8.41697857,24.4180094 7.45823096,23.5992872 7.28748079,22.5155587 C7.28171777,22.4749949 7.2714541,22.436128 7.26140997,22.4007646 L7.26140997,12.0401739 L7.43128196,12.001088 C7.43940508,12.0000479 7.44648536,11.9985152 7.45241305,11.9969824 L7.48221611,11.9895375 C7.71674374,11.9208909 8.94915265,11.5339193 10.1839217,10.657937 C12.0134896,9.36328739 12.980525,7.62292799 12.980525,5.62500721 L12.980525,1.62079013 C13.5111623,1.54836639 14.3843427,1.52614112 15.0176716,1.99626589 C15.6289363,2.4457529 15.9389321,3.31117004 15.9389321,4.56848555 L15.9389321,9.37483796 C15.9389321,9.81250069 16.2959103,10.1685978 16.7347782,10.1685978 Z M25.6273435,9.50599993 C24.9308958,8.91303399 24.0553553,8.58655238 23.161867,8.58655238 L17.5306244,8.58655238 L17.5306244,4.56848555 C17.5306244,2.77617594 17.0002067,1.47928192 15.9543551,0.71387851 C14.2753941,-0.51748927 11.9586037,0.216382716 11.9397778,0.223006505 C11.6069495,0.329260833 11.3833441,0.632422332 11.3833441,0.977406762 L11.3833441,5.62500721 C11.3833441,7.09461241 10.6769072,8.34459249 9.2835178,9.34029573 C8.40973363,9.96599741 7.5185506,10.3059456 7.06508296,10.4528732 L6.98983434,10.4724709 C6.71079421,10.0643689 6.25732657,9.82372281 5.75753519,9.82372281 L1.49289759,9.82372281 C0.66971825,9.82372281 0,10.4916854 0,11.3127067 L0,23.8158468 C0,24.6368681 0.66971825,25.3047759 1.49289759,25.3047759 L5.76851238,25.3047759 C6.16253855,25.3047759 6.53592761,25.1513339 6.81408955,24.8794301 C7.53929749,25.5932665 8.51824313,26 9.52271073,26 L20.9280092,26 C23.5244984,26 25.1825478,24.6393862 25.4762974,22.2719018 L26.9528938,13.134577 C27.1639303,11.7693102 26.6560158,10.3789167 25.6273435,9.50599993 Z" fill="#666666" id="s-Image_11-Fill-1" mask="url(#s-Image_11-mask-2)" style="fill:#CCCCCC !important;" />\
+          	                <g id="s-Image_6-Clip-2" />\
+          	                <path d="M5.66971769,11.4112424 L5.66971769,23.6789916 L5.66422909,23.6789916 L5.66422909,23.7172563 L1.59169228,23.7172563 L1.59169228,11.4112424 L5.66971769,11.4112424 Z M16.7347782,10.1685978 L23.161867,10.1685978 C23.67774,10.1685978 24.1858191,10.3609613 24.5929631,10.7105441 C25.2069721,11.2346445 25.5047832,12.0672712 25.370148,12.88353 L23.899095,22.0368942 L23.8928929,22.0691373 C23.7963485,22.8474051 23.4998547,23.4389477 23.0118089,23.8272331 C22.5190429,24.219241 21.8161186,24.4180094 20.9225206,24.4180094 L9.51722214,24.4180094 C8.41697857,24.4180094 7.45823096,23.5992872 7.28748079,22.5155587 C7.28171777,22.4749949 7.2714541,22.436128 7.26140997,22.4007646 L7.26140997,12.0401739 L7.43128196,12.001088 C7.43940508,12.0000479 7.44648536,11.9985152 7.45241305,11.9969824 L7.48221611,11.9895375 C7.71674374,11.9208909 8.94915265,11.5339193 10.1839217,10.657937 C12.0134896,9.36328739 12.980525,7.62292799 12.980525,5.62500721 L12.980525,1.62079013 C13.5111623,1.54836639 14.3843427,1.52614112 15.0176716,1.99626589 C15.6289363,2.4457529 15.9389321,3.31117004 15.9389321,4.56848555 L15.9389321,9.37483796 C15.9389321,9.81250069 16.2959103,10.1685978 16.7347782,10.1685978 Z M25.6273435,9.50599993 C24.9308958,8.91303399 24.0553553,8.58655238 23.161867,8.58655238 L17.5306244,8.58655238 L17.5306244,4.56848555 C17.5306244,2.77617594 17.0002067,1.47928192 15.9543551,0.71387851 C14.2753941,-0.51748927 11.9586037,0.216382716 11.9397778,0.223006505 C11.6069495,0.329260833 11.3833441,0.632422332 11.3833441,0.977406762 L11.3833441,5.62500721 C11.3833441,7.09461241 10.6769072,8.34459249 9.2835178,9.34029573 C8.40973363,9.96599741 7.5185506,10.3059456 7.06508296,10.4528732 L6.98983434,10.4724709 C6.71079421,10.0643689 6.25732657,9.82372281 5.75753519,9.82372281 L1.49289759,9.82372281 C0.66971825,9.82372281 0,10.4916854 0,11.3127067 L0,23.8158468 C0,24.6368681 0.66971825,25.3047759 1.49289759,25.3047759 L5.76851238,25.3047759 C6.16253855,25.3047759 6.53592761,25.1513339 6.81408955,24.8794301 C7.53929749,25.5932665 8.51824313,26 9.52271073,26 L20.9280092,26 C23.5244984,26 25.1825478,24.6393862 25.4762974,22.2719018 L26.9528938,13.134577 C27.1639303,11.7693102 26.6560158,10.3789167 25.6273435,9.50599993 Z" fill="#666666" id="s-Image_6-Fill-1" mask="url(#s-Image_6-mask-2)" style="fill:#CCCCCC !important;" />\
           	            </g>\
           	        </g>\
           	    </g>\
@@ -351,7 +351,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
 \
-      <div id="s-Image_12" class="pie image lockV firer toggle ie-background commentable non-processed" customid="Like-icon"   datasizewidth="21.0px" datasizeheight="20.2px" dataX="322.0" dataY="282.3" aspectRatio="0.9629629"   alt="image" systemName="./images/0068d248-712b-490f-888b-f5bf537983c9.svg" overlay="#CCCCCC">\
+      <div id="s-Image_7" class="pie image lockV firer toggle ie-background commentable non-processed" customid="Like-icon"   datasizewidth="21.0px" datasizeheight="20.2px" dataX="322.0" dataY="282.3" aspectRatio="0.9629629"   alt="image" systemName="./images/0068d248-712b-490f-888b-f5bf537983c9.svg" overlay="#CCCCCC">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -360,16 +360,16 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           	    <title>Page 1</title>\
           	    <desc>Created with Sketch.</desc>\
           	    <defs>\
-          	        <polygon id="s-Image_12-path-1" points="0 0 27 0 27 26 0 26" fill="#CCCCCC" jimofill=" " />\
+          	        <polygon id="s-Image_7-path-1" points="0 0 27 0 27 26 0 26" fill="#CCCCCC" jimofill=" " />\
           	    </defs>\
-          	    <g fill="none" fill-rule="evenodd" id="s-Image_12-Page-1" stroke="none" stroke-width="1">\
-          	        <g id="s-Image_12-Slide-menu-4-Copy" transform="translate(-30.000000, -305.000000)">\
-          	            <g id="s-Image_12-Page-1" transform="translate(30.000000, 305.000000)">\
-          	                <mask fill="white" id="s-Image_12-mask-2">\
-          	                    <use xlink:href="#s-Image_12-path-1" style="fill:#CCCCCC !important;" />\
+          	    <g fill="none" fill-rule="evenodd" id="s-Image_7-Page-1" stroke="none" stroke-width="1">\
+          	        <g id="s-Image_7-Slide-menu-4-Copy" transform="translate(-30.000000, -305.000000)">\
+          	            <g id="s-Image_7-Page-1" transform="translate(30.000000, 305.000000)">\
+          	                <mask fill="white" id="s-Image_7-mask-2">\
+          	                    <use xlink:href="#s-Image_7-path-1" style="fill:#CCCCCC !important;" />\
           	                </mask>\
-          	                <g id="s-Image_12-Clip-2" />\
-          	                <path d="M5.66971769,11.4112424 L5.66971769,23.6789916 L5.66422909,23.6789916 L5.66422909,23.7172563 L1.59169228,23.7172563 L1.59169228,11.4112424 L5.66971769,11.4112424 Z M16.7347782,10.1685978 L23.161867,10.1685978 C23.67774,10.1685978 24.1858191,10.3609613 24.5929631,10.7105441 C25.2069721,11.2346445 25.5047832,12.0672712 25.370148,12.88353 L23.899095,22.0368942 L23.8928929,22.0691373 C23.7963485,22.8474051 23.4998547,23.4389477 23.0118089,23.8272331 C22.5190429,24.219241 21.8161186,24.4180094 20.9225206,24.4180094 L9.51722214,24.4180094 C8.41697857,24.4180094 7.45823096,23.5992872 7.28748079,22.5155587 C7.28171777,22.4749949 7.2714541,22.436128 7.26140997,22.4007646 L7.26140997,12.0401739 L7.43128196,12.001088 C7.43940508,12.0000479 7.44648536,11.9985152 7.45241305,11.9969824 L7.48221611,11.9895375 C7.71674374,11.9208909 8.94915265,11.5339193 10.1839217,10.657937 C12.0134896,9.36328739 12.980525,7.62292799 12.980525,5.62500721 L12.980525,1.62079013 C13.5111623,1.54836639 14.3843427,1.52614112 15.0176716,1.99626589 C15.6289363,2.4457529 15.9389321,3.31117004 15.9389321,4.56848555 L15.9389321,9.37483796 C15.9389321,9.81250069 16.2959103,10.1685978 16.7347782,10.1685978 Z M25.6273435,9.50599993 C24.9308958,8.91303399 24.0553553,8.58655238 23.161867,8.58655238 L17.5306244,8.58655238 L17.5306244,4.56848555 C17.5306244,2.77617594 17.0002067,1.47928192 15.9543551,0.71387851 C14.2753941,-0.51748927 11.9586037,0.216382716 11.9397778,0.223006505 C11.6069495,0.329260833 11.3833441,0.632422332 11.3833441,0.977406762 L11.3833441,5.62500721 C11.3833441,7.09461241 10.6769072,8.34459249 9.2835178,9.34029573 C8.40973363,9.96599741 7.5185506,10.3059456 7.06508296,10.4528732 L6.98983434,10.4724709 C6.71079421,10.0643689 6.25732657,9.82372281 5.75753519,9.82372281 L1.49289759,9.82372281 C0.66971825,9.82372281 0,10.4916854 0,11.3127067 L0,23.8158468 C0,24.6368681 0.66971825,25.3047759 1.49289759,25.3047759 L5.76851238,25.3047759 C6.16253855,25.3047759 6.53592761,25.1513339 6.81408955,24.8794301 C7.53929749,25.5932665 8.51824313,26 9.52271073,26 L20.9280092,26 C23.5244984,26 25.1825478,24.6393862 25.4762974,22.2719018 L26.9528938,13.134577 C27.1639303,11.7693102 26.6560158,10.3789167 25.6273435,9.50599993 Z" fill="#666666" id="s-Image_12-Fill-1" mask="url(#s-Image_12-mask-2)" style="fill:#CCCCCC !important;" />\
+          	                <g id="s-Image_7-Clip-2" />\
+          	                <path d="M5.66971769,11.4112424 L5.66971769,23.6789916 L5.66422909,23.6789916 L5.66422909,23.7172563 L1.59169228,23.7172563 L1.59169228,11.4112424 L5.66971769,11.4112424 Z M16.7347782,10.1685978 L23.161867,10.1685978 C23.67774,10.1685978 24.1858191,10.3609613 24.5929631,10.7105441 C25.2069721,11.2346445 25.5047832,12.0672712 25.370148,12.88353 L23.899095,22.0368942 L23.8928929,22.0691373 C23.7963485,22.8474051 23.4998547,23.4389477 23.0118089,23.8272331 C22.5190429,24.219241 21.8161186,24.4180094 20.9225206,24.4180094 L9.51722214,24.4180094 C8.41697857,24.4180094 7.45823096,23.5992872 7.28748079,22.5155587 C7.28171777,22.4749949 7.2714541,22.436128 7.26140997,22.4007646 L7.26140997,12.0401739 L7.43128196,12.001088 C7.43940508,12.0000479 7.44648536,11.9985152 7.45241305,11.9969824 L7.48221611,11.9895375 C7.71674374,11.9208909 8.94915265,11.5339193 10.1839217,10.657937 C12.0134896,9.36328739 12.980525,7.62292799 12.980525,5.62500721 L12.980525,1.62079013 C13.5111623,1.54836639 14.3843427,1.52614112 15.0176716,1.99626589 C15.6289363,2.4457529 15.9389321,3.31117004 15.9389321,4.56848555 L15.9389321,9.37483796 C15.9389321,9.81250069 16.2959103,10.1685978 16.7347782,10.1685978 Z M25.6273435,9.50599993 C24.9308958,8.91303399 24.0553553,8.58655238 23.161867,8.58655238 L17.5306244,8.58655238 L17.5306244,4.56848555 C17.5306244,2.77617594 17.0002067,1.47928192 15.9543551,0.71387851 C14.2753941,-0.51748927 11.9586037,0.216382716 11.9397778,0.223006505 C11.6069495,0.329260833 11.3833441,0.632422332 11.3833441,0.977406762 L11.3833441,5.62500721 C11.3833441,7.09461241 10.6769072,8.34459249 9.2835178,9.34029573 C8.40973363,9.96599741 7.5185506,10.3059456 7.06508296,10.4528732 L6.98983434,10.4724709 C6.71079421,10.0643689 6.25732657,9.82372281 5.75753519,9.82372281 L1.49289759,9.82372281 C0.66971825,9.82372281 0,10.4916854 0,11.3127067 L0,23.8158468 C0,24.6368681 0.66971825,25.3047759 1.49289759,25.3047759 L5.76851238,25.3047759 C6.16253855,25.3047759 6.53592761,25.1513339 6.81408955,24.8794301 C7.53929749,25.5932665 8.51824313,26 9.52271073,26 L20.9280092,26 C23.5244984,26 25.1825478,24.6393862 25.4762974,22.2719018 L26.9528938,13.134577 C27.1639303,11.7693102 26.6560158,10.3789167 25.6273435,9.50599993 Z" fill="#666666" id="s-Image_7-Fill-1" mask="url(#s-Image_7-mask-2)" style="fill:#CCCCCC !important;" />\
           	            </g>\
           	        </g>\
           	    </g>\

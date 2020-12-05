@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607108593741-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-e37e65f6-fe67-40f3-b210-749307f3c101" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Labour Market Analysis" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607108593741.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607108593741-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607108593741-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header_11" datasizewidth="375.0px" datasizeheight="73.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_40"   datasizewidth="375.0px" datasizeheight="73.0px" datasizewidthpx="375.0" datasizeheightpx="73.0" dataX="0.0" dataY="31.0" >\
@@ -97,7 +97,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
 \
-        <div id="s-Image_2" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_17"   datasizewidth="17.0px" datasizeheight="12.0px" dataX="63.0" dataY="12.0"   alt="image" systemName="./images/50c3a2a0-b7c9-4e1d-a5a4-c8d597f33218.svg" overlay="">\
+        <div id="s-Image_1" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_17"   datasizewidth="17.0px" datasizeheight="12.0px" dataX="63.0" dataY="12.0"   alt="image" systemName="./images/50c3a2a0-b7c9-4e1d-a5a4-c8d597f33218.svg" overlay="">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -107,7 +107,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             	    <desc>Created with Sketch.</desc>\
             	    <defs></defs>\
             	    <g id="UI-Bars-/-Status-Bars-/-Black-Base" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-293.000000, -17.000000)">\
-            	        <path d="M294.666667,24.3333333 L295.666667,24.3333333 C296.218951,24.3333333 296.666667,24.7810486 296.666667,25.3333333 L296.666667,27.3333333 C296.666667,27.8856181 296.218951,28.3333333 295.666667,28.3333333 L294.666667,28.3333333 C294.114382,28.3333333 293.666667,27.8856181 293.666667,27.3333333 L293.666667,25.3333333 C293.666667,24.7810486 294.114382,24.3333333 294.666667,24.3333333 Z M299.333333,22.3333333 L300.333333,22.3333333 C300.885618,22.3333333 301.333333,22.7810486 301.333333,23.3333333 L301.333333,27.3333333 C301.333333,27.8856181 300.885618,28.3333333 300.333333,28.3333333 L299.333333,28.3333333 C298.781049,28.3333333 298.333333,27.8856181 298.333333,27.3333333 L298.333333,23.3333333 C298.333333,22.7810486 298.781049,22.3333333 299.333333,22.3333333 Z M304,20 L305,20 C305.552285,20 306,20.4477153 306,21 L306,27.3333333 C306,27.8856181 305.552285,28.3333333 305,28.3333333 L304,28.3333333 C303.447715,28.3333333 303,27.8856181 303,27.3333333 L303,21 C303,20.4477153 303.447715,20 304,20 Z M308.666667,17.6666667 L309.666667,17.6666667 C310.218951,17.6666667 310.666667,18.1143819 310.666667,18.6666667 L310.666667,27.3333333 C310.666667,27.8856181 310.218951,28.3333333 309.666667,28.3333333 L308.666667,28.3333333 C308.114382,28.3333333 307.666667,27.8856181 307.666667,27.3333333 L307.666667,18.6666667 C307.666667,18.1143819 308.114382,17.6666667 308.666667,17.6666667 Z" id="s-Image_2-Mobile-Signal" fill="#000000" fill-rule="nonzero"></path>\
+            	        <path d="M294.666667,24.3333333 L295.666667,24.3333333 C296.218951,24.3333333 296.666667,24.7810486 296.666667,25.3333333 L296.666667,27.3333333 C296.666667,27.8856181 296.218951,28.3333333 295.666667,28.3333333 L294.666667,28.3333333 C294.114382,28.3333333 293.666667,27.8856181 293.666667,27.3333333 L293.666667,25.3333333 C293.666667,24.7810486 294.114382,24.3333333 294.666667,24.3333333 Z M299.333333,22.3333333 L300.333333,22.3333333 C300.885618,22.3333333 301.333333,22.7810486 301.333333,23.3333333 L301.333333,27.3333333 C301.333333,27.8856181 300.885618,28.3333333 300.333333,28.3333333 L299.333333,28.3333333 C298.781049,28.3333333 298.333333,27.8856181 298.333333,27.3333333 L298.333333,23.3333333 C298.333333,22.7810486 298.781049,22.3333333 299.333333,22.3333333 Z M304,20 L305,20 C305.552285,20 306,20.4477153 306,21 L306,27.3333333 C306,27.8856181 305.552285,28.3333333 305,28.3333333 L304,28.3333333 C303.447715,28.3333333 303,27.8856181 303,27.3333333 L303,21 C303,20.4477153 303.447715,20 304,20 Z M308.666667,17.6666667 L309.666667,17.6666667 C310.218951,17.6666667 310.666667,18.1143819 310.666667,18.6666667 L310.666667,27.3333333 C310.666667,27.8856181 310.218951,28.3333333 309.666667,28.3333333 L308.666667,28.3333333 C308.114382,28.3333333 307.666667,27.8856181 307.666667,27.3333333 L307.666667,18.6666667 C307.666667,18.1143819 308.114382,17.6666667 308.666667,17.6666667 Z" id="s-Image_1-Mobile-Signal" fill="#000000" fill-rule="nonzero"></path>\
             	    </g>\
             	</svg>\
             </div>\
@@ -115,16 +115,16 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
 \
 \
-        <div id="s-Image_3" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_18"   datasizewidth="18.0px" datasizeheight="18.0px" dataX="40.0" dataY="9.0"   alt="image" systemName="./images/ba4608d1-0dc5-41d0-9bd5-78d743e09960.svg" overlay="">\
+        <div id="s-Image_2" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_18"   datasizewidth="18.0px" datasizeheight="18.0px" dataX="40.0" dataY="9.0"   alt="image" systemName="./images/ba4608d1-0dc5-41d0-9bd5-78d743e09960.svg" overlay="">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-            	<svg preserveAspectRatio=\'none\' id="s-Image_3-Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>cacaca</title><path d="M12,8.06a12.51,12.51,0,0,1,8.27,3.12L21.8,9.46A15,15,0,0,0,12,5.54,15,15,0,0,0,2.2,9.45l1.53,1.72A12.49,12.49,0,0,1,12,8.06"/><path d="M12,13a7.6,7.6,0,0,1,5,1.85l1.63-1.82A10.07,10.07,0,0,0,12,10.5,10.08,10.08,0,0,0,5.4,13L7,14.87A7.61,7.61,0,0,1,12,13"/><path d="M15.34,16.69A5.24,5.24,0,0,0,12,15.4a5.24,5.24,0,0,0-3.34,1.29L12,20.44Z"/></svg>\
+            	<svg preserveAspectRatio=\'none\' id="s-Image_2-Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>cacaca</title><path d="M12,8.06a12.51,12.51,0,0,1,8.27,3.12L21.8,9.46A15,15,0,0,0,12,5.54,15,15,0,0,0,2.2,9.45l1.53,1.72A12.49,12.49,0,0,1,12,8.06"/><path d="M12,13a7.6,7.6,0,0,1,5,1.85l1.63-1.82A10.07,10.07,0,0,0,12,10.5,10.08,10.08,0,0,0,5.4,13L7,14.87A7.61,7.61,0,0,1,12,13"/><path d="M15.34,16.69A5.24,5.24,0,0,0,12,15.4a5.24,5.24,0,0,0-3.34,1.29L12,20.44Z"/></svg>\
             </div>\
           </div>\
         </div>\
 \
 \
-        <div id="s-Image_4" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_4"   datasizewidth="25.0px" datasizeheight="12.0px" dataX="10.0" dataY="14.0"   alt="image" systemName="./images/c17277e2-2352-4aee-8bdb-2637ec61f4f8.svg" overlay="#000000">\
+        <div id="s-Image_3" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_4"   datasizewidth="25.0px" datasizeheight="12.0px" dataX="10.0" dataY="14.0"   alt="image" systemName="./images/c17277e2-2352-4aee-8bdb-2637ec61f4f8.svg" overlay="#000000">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -134,10 +134,10 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             	    <desc>Created with Sketch.</desc>\
             	    <defs />\
             	    <g fill="none" fill-rule="evenodd" id="Bars/Status-Bar/Dark-Status-Bar" stroke="none" stroke-width="1" transform="translate(-336.000000, -17.000000)">\
-            	        <g id="s-Image_4-Battery" transform="translate(336.000000, 17.000000)">\
-            	            <rect height="10.3333333" id="s-Image_4-Border" opacity="0.35" rx="2.66666675" stroke="#FFFFFF" width="21" x="0.5" y="0.833333333" style="stroke:#000000 !important;" />\
-            	            <path d="M23,4 L23,8 C23.8047311,7.66122348 24.328038,6.87313328 24.328038,6 C24.328038,5.12686672 23.8047311,4.33877652 23,4" fill="#FFFFFF" fill-rule="nonzero" id="s-Image_4-Cap" opacity="0.4" style="fill:#000000 !important;" />\
-            	            <rect fill="#FFFFFF" fill-rule="nonzero" height="7.33333333" id="s-Image_4-Capacity" rx="1.33333337" width="18" x="2" y="2.33333333" style="fill:#000000 !important;" />\
+            	        <g id="s-Image_3-Battery" transform="translate(336.000000, 17.000000)">\
+            	            <rect height="10.3333333" id="s-Image_3-Border" opacity="0.35" rx="2.66666675" stroke="#FFFFFF" width="21" x="0.5" y="0.833333333" style="stroke:#000000 !important;" />\
+            	            <path d="M23,4 L23,8 C23.8047311,7.66122348 24.328038,6.87313328 24.328038,6 C24.328038,5.12686672 23.8047311,4.33877652 23,4" fill="#FFFFFF" fill-rule="nonzero" id="s-Image_3-Cap" opacity="0.4" style="fill:#000000 !important;" />\
+            	            <rect fill="#FFFFFF" fill-rule="nonzero" height="7.33333333" id="s-Image_3-Capacity" rx="1.33333337" width="18" x="2" y="2.33333333" style="fill:#000000 !important;" />\
             	        </g>\
             	    </g>\
             	</svg>\
@@ -2300,7 +2300,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
         <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="columns" datasizewidth="939.0px" datasizeheight="347.0px" >\
           <div id="s-Group_6" class="group firer ie-background commentable non-processed" customid="Group_2" datasizewidth="75.0px" datasizeheight="347.0px" >\
-            <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="9.4px" datasizeheight="108.7px" dataX="44.0" dataY="550.0"   alt="image" systemName="./images/dd02947f-77ca-4fde-bd4f-0274b3423c17.svg" overlay="#980000">\
+            <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="9.4px" datasizeheight="108.7px" dataX="44.0" dataY="550.0"   alt="image" systemName="./images/dd02947f-77ca-4fde-bd4f-0274b3423c17.svg" overlay="#980000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2308,8 +2308,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_5-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_5-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#980000 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_4-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_4-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#980000 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2333,7 +2333,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="23.5px" datasizeheight="2.2px" dataX="31.0" dataY="550.0"   alt="image" systemName="./images/bde73747-8a37-46e2-bb73-2e4fbe850a45.svg" overlay="#C5183B">\
+            <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="23.5px" datasizeheight="2.2px" dataX="31.0" dataY="550.0"   alt="image" systemName="./images/bde73747-8a37-46e2-bb73-2e4fbe850a45.svg" overlay="#C5183B">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2341,8 +2341,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_6-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_6-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#C5183B !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_5-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_5-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#C5183B !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2354,7 +2354,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Group_3" datasizewidth="76.0px" datasizeheight="166.0px" >\
-            <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="9.4px" datasizeheight="51.7px" dataX="62.0" dataY="606.0"   alt="image" systemName="./images/09d8b8e0-de3d-447c-a298-6003d7e095bb.svg" overlay="#CC5200">\
+            <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="9.4px" datasizeheight="51.7px" dataX="62.0" dataY="606.0"   alt="image" systemName="./images/09d8b8e0-de3d-447c-a298-6003d7e095bb.svg" overlay="#CC5200">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2362,8 +2362,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_7-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_7-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CC5200 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_6-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_6-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CC5200 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2387,7 +2387,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_8" class="pie image firer ie-background commentable non-processed" customid="Image_6"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="48.0" dataY="606.0"   alt="image" systemName="./images/208cd93a-5e18-4327-a4a1-20d0927d31f6.svg" overlay="#FF7A00">\
+            <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_6"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="48.0" dataY="606.0"   alt="image" systemName="./images/208cd93a-5e18-4327-a4a1-20d0927d31f6.svg" overlay="#FF7A00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2395,8 +2395,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_8-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_8-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FF7A00 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_7-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_7-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FF7A00 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2408,7 +2408,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_8" class="group firer ie-background commentable non-processed" customid="Group_4" datasizewidth="76.0px" datasizeheight="158.0px" >\
-            <div id="s-Image_9" class="pie image firer ie-background commentable non-processed" customid="Image_7"   datasizewidth="9.4px" datasizeheight="49.2px" dataX="79.0" dataY="609.0"   alt="image" systemName="./images/971bd970-9dc8-4f3d-ab1d-c4abff47ad90.svg" overlay="#CC7E00">\
+            <div id="s-Image_8" class="pie image firer ie-background commentable non-processed" customid="Image_7"   datasizewidth="9.4px" datasizeheight="49.2px" dataX="79.0" dataY="609.0"   alt="image" systemName="./images/971bd970-9dc8-4f3d-ab1d-c4abff47ad90.svg" overlay="#CC7E00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2416,8 +2416,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_9-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_9-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CC7E00 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_8-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_8-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CC7E00 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2441,7 +2441,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_10" class="pie image firer ie-background commentable non-processed" customid="Image_8"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="65.0" dataY="609.0"   alt="image" systemName="./images/0e04f45a-55f5-46d6-ac0e-c06405b4fa2a.svg" overlay="#FFBE02">\
+            <div id="s-Image_9" class="pie image firer ie-background commentable non-processed" customid="Image_8"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="65.0" dataY="609.0"   alt="image" systemName="./images/0e04f45a-55f5-46d6-ac0e-c06405b4fa2a.svg" overlay="#FFBE02">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2449,8 +2449,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_10-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_10-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFBE02 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_9-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_9-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFBE02 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2462,7 +2462,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="Group_5" datasizewidth="76.0px" datasizeheight="120.0px" >\
-            <div id="s-Image_11" class="pie image firer ie-background commentable non-processed" customid="Image_9"   datasizewidth="9.4px" datasizeheight="37.3px" dataX="95.0" dataY="621.0"   alt="image" systemName="./images/91ee8a48-c39b-41e7-a0aa-60e0998e599d.svg" overlay="#CAA800">\
+            <div id="s-Image_10" class="pie image firer ie-background commentable non-processed" customid="Image_9"   datasizewidth="9.4px" datasizeheight="37.3px" dataX="95.0" dataY="621.0"   alt="image" systemName="./images/91ee8a48-c39b-41e7-a0aa-60e0998e599d.svg" overlay="#CAA800">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2470,8 +2470,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_11-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_11-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CAA800 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_10-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_10-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#CAA800 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2495,7 +2495,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image_10"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="81.0" dataY="621.0"   alt="image" systemName="./images/d203b59b-89ae-451d-a4ec-899e8139ce3b.svg" overlay="#FFFC00">\
+            <div id="s-Image_11" class="pie image firer ie-background commentable non-processed" customid="Image_10"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="81.0" dataY="621.0"   alt="image" systemName="./images/d203b59b-89ae-451d-a4ec-899e8139ce3b.svg" overlay="#FFFC00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2503,8 +2503,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_12-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_12-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFFC00 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_11-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_11-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFFC00 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2516,7 +2516,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_10" class="group firer ie-background commentable non-processed" customid="Group_6" datasizewidth="76.0px" datasizeheight="101.0px" >\
-            <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_11"   datasizewidth="9.4px" datasizeheight="31.3px" dataX="112.0" dataY="627.0"   alt="image" systemName="./images/d300cf7a-1db3-47d6-9b18-4bb5917f11da.svg" overlay="#C6CC00">\
+            <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image_11"   datasizewidth="9.4px" datasizeheight="31.3px" dataX="112.0" dataY="627.0"   alt="image" systemName="./images/d300cf7a-1db3-47d6-9b18-4bb5917f11da.svg" overlay="#C6CC00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2524,8 +2524,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_13-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_13-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#C6CC00 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_12-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_12-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#C6CC00 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2549,7 +2549,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_14" class="pie image firer ie-background commentable non-processed" customid="Image_12"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="98.0" dataY="627.0"   alt="image" systemName="./images/aaf9f8e6-4cc3-430e-9501-26e44592e889.svg" overlay="#FEFF00">\
+            <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_12"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="98.0" dataY="627.0"   alt="image" systemName="./images/aaf9f8e6-4cc3-430e-9501-26e44592e889.svg" overlay="#FEFF00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2557,8 +2557,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_14-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_14-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FEFF00 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_13-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_13-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FEFF00 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2570,7 +2570,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_11" class="group firer ie-background commentable non-processed" customid="Group_7" datasizewidth="76.0px" datasizeheight="97.0px" >\
-            <div id="s-Image_15" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="9.4px" datasizeheight="30.1px" dataX="129.0" dataY="628.0"   alt="image" systemName="./images/595c399e-ae02-4dde-8d88-72f71db6b292.svg" overlay="#8DB205">\
+            <div id="s-Image_14" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="9.4px" datasizeheight="30.1px" dataX="129.0" dataY="628.0"   alt="image" systemName="./images/595c399e-ae02-4dde-8d88-72f71db6b292.svg" overlay="#8DB205">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2578,8 +2578,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_15-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_15-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#8DB205 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_14-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_14-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#8DB205 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2603,7 +2603,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_16" class="pie image firer ie-background commentable non-processed" customid="Image_14"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="116.0" dataY="627.0"   alt="image" systemName="./images/d5b4b935-0b8f-4537-ac1f-aab108abd478.svg" overlay="#D4FF0C">\
+            <div id="s-Image_15" class="pie image firer ie-background commentable non-processed" customid="Image_14"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="116.0" dataY="627.0"   alt="image" systemName="./images/d5b4b935-0b8f-4537-ac1f-aab108abd478.svg" overlay="#D4FF0C">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2611,8 +2611,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_16-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_16-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#D4FF0C !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_15-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_15-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#D4FF0C !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2624,7 +2624,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_12" class="group firer ie-background commentable non-processed" customid="Group_8" datasizewidth="76.0px" datasizeheight="90.0px" >\
-            <div id="s-Image_17" class="pie image firer ie-background commentable non-processed" customid="Image_15"   datasizewidth="9.4px" datasizeheight="27.9px" dataX="146.0" dataY="630.0"   alt="image" systemName="./images/25a2a07b-739a-40a1-b68f-8a693b578d31.svg" overlay="#01A811">\
+            <div id="s-Image_16" class="pie image firer ie-background commentable non-processed" customid="Image_15"   datasizewidth="9.4px" datasizeheight="27.9px" dataX="146.0" dataY="630.0"   alt="image" systemName="./images/25a2a07b-739a-40a1-b68f-8a693b578d31.svg" overlay="#01A811">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2632,8 +2632,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_17-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_17-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#01A811 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_16-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_16-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#01A811 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2657,7 +2657,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="133.0" dataY="630.0"   alt="image" systemName="./images/2946adda-6264-48ca-b141-e49b303a8494.svg" overlay="#0BFC18">\
+            <div id="s-Image_17" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="133.0" dataY="630.0"   alt="image" systemName="./images/2946adda-6264-48ca-b141-e49b303a8494.svg" overlay="#0BFC18">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2665,8 +2665,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_18-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_18-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0BFC18 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_17-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_17-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0BFC18 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2678,7 +2678,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_13" class="group firer ie-background commentable non-processed" customid="Group_9" datasizewidth="76.0px" datasizeheight="71.0px" >\
-            <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_17"   datasizewidth="9.4px" datasizeheight="21.9px" dataX="163.0" dataY="636.0"   alt="image" systemName="./images/3ae2578c-23dd-46fd-b2ff-40e24d8a8a8f.svg" overlay="#0A71A6">\
+            <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_17"   datasizewidth="9.4px" datasizeheight="21.9px" dataX="163.0" dataY="636.0"   alt="image" systemName="./images/3ae2578c-23dd-46fd-b2ff-40e24d8a8a8f.svg" overlay="#0A71A6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2686,8 +2686,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_19-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_19-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#0A71A6 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_18-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_18-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#0A71A6 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2711,7 +2711,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_18"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="150.0" dataY="636.0"   alt="image" systemName="./images/dff4a4e3-55fd-4202-8d64-2435ad834fda.svg" overlay="#0FAAF8">\
+            <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_18"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="150.0" dataY="636.0"   alt="image" systemName="./images/dff4a4e3-55fd-4202-8d64-2435ad834fda.svg" overlay="#0FAAF8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2719,8 +2719,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_20-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_20-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0FAAF8 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_19-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_19-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0FAAF8 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2732,7 +2732,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_14" class="group firer ie-background commentable non-processed" customid="Group_10" datasizewidth="76.0px" datasizeheight="67.0px" >\
-            <div id="s-Image_21" class="pie image firer ie-background commentable non-processed" customid="Image_19"   datasizewidth="9.4px" datasizeheight="20.7px" dataX="179.0" dataY="638.0"   alt="image" systemName="./images/e17af287-d412-4c9c-ab3d-21b50e98115d.svg" overlay="#0942A7">\
+            <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_19"   datasizewidth="9.4px" datasizeheight="20.7px" dataX="179.0" dataY="638.0"   alt="image" systemName="./images/e17af287-d412-4c9c-ab3d-21b50e98115d.svg" overlay="#0942A7">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2740,8 +2740,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_21-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_21-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#0942A7 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_20-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_20-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#0942A7 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2765,7 +2765,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_22" class="pie image firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="166.0" dataY="638.0"   alt="image" systemName="./images/9edbaed0-66dc-4618-87a3-4291bfdcf306.svg" overlay="#0F62FB">\
+            <div id="s-Image_21" class="pie image firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="166.0" dataY="638.0"   alt="image" systemName="./images/9edbaed0-66dc-4618-87a3-4291bfdcf306.svg" overlay="#0F62FB">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2773,8 +2773,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_22-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_22-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0F62FB !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_21-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_21-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#0F62FB !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2786,7 +2786,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_15" class="group firer ie-background commentable non-processed" customid="Group_11" datasizewidth="76.0px" datasizeheight="63.0px" >\
-            <div id="s-Image_23" class="pie image firer ie-background commentable non-processed" customid="Image_21"   datasizewidth="9.4px" datasizeheight="19.4px" dataX="196.0" dataY="639.0"   alt="image" systemName="./images/ee6623bc-44d0-4cac-93a5-56c3497236d8.svg" overlay="#220AA6">\
+            <div id="s-Image_22" class="pie image firer ie-background commentable non-processed" customid="Image_21"   datasizewidth="9.4px" datasizeheight="19.4px" dataX="196.0" dataY="639.0"   alt="image" systemName="./images/ee6623bc-44d0-4cac-93a5-56c3497236d8.svg" overlay="#220AA6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2794,8 +2794,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_23-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_23-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#220AA6 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_22-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_22-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#220AA6 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2819,7 +2819,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_24" class="pie image firer ie-background commentable non-processed" customid="Image_22"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="183.0" dataY="639.0"   alt="image" systemName="./images/c3cce9b9-465e-4ac7-acf4-8d01221a416b.svg" overlay="#3210FA">\
+            <div id="s-Image_23" class="pie image firer ie-background commentable non-processed" customid="Image_22"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="183.0" dataY="639.0"   alt="image" systemName="./images/c3cce9b9-465e-4ac7-acf4-8d01221a416b.svg" overlay="#3210FA">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2827,8 +2827,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_24-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_24-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#3210FA !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_23-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_23-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#3210FA !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2840,7 +2840,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_16" class="group firer ie-background commentable non-processed" customid="Group_12" datasizewidth="76.0px" datasizeheight="53.0px" >\
-            <div id="s-Image_25" class="pie image firer ie-background commentable non-processed" customid="Image_23"   datasizewidth="9.4px" datasizeheight="16.3px" dataX="214.0" dataY="641.0"   alt="image" systemName="./images/bfa391d3-0479-47b9-8069-493dc45f2fd3.svg" overlay="#6E0AA6">\
+            <div id="s-Image_24" class="pie image firer ie-background commentable non-processed" customid="Image_23"   datasizewidth="9.4px" datasizeheight="16.3px" dataX="214.0" dataY="641.0"   alt="image" systemName="./images/bfa391d3-0479-47b9-8069-493dc45f2fd3.svg" overlay="#6E0AA6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2848,8 +2848,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_25-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_25-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#6E0AA6 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_24-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_24-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#6E0AA6 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2873,7 +2873,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_26" class="pie image firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="200.0" dataY="641.0"   alt="image" systemName="./images/c3b827f5-f546-4b80-91d9-008450b009e5.svg" overlay="#A60FF8">\
+            <div id="s-Image_25" class="pie image firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="200.0" dataY="641.0"   alt="image" systemName="./images/c3b827f5-f546-4b80-91d9-008450b009e5.svg" overlay="#A60FF8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2881,8 +2881,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_26-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_26-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#A60FF8 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_25-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_25-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#A60FF8 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2894,7 +2894,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_17" class="group firer ie-background commentable non-processed" customid="Group_13" datasizewidth="76.0px" datasizeheight="48.0px" >\
-            <div id="s-Image_27" class="pie image firer ie-background commentable non-processed" customid="Image_25"   datasizewidth="9.4px" datasizeheight="14.7px" dataX="231.0" dataY="643.0"   alt="image" systemName="./images/ad94f5b0-825c-4a16-8483-7a52b05f2386.svg" overlay="#A40A5D">\
+            <div id="s-Image_26" class="pie image firer ie-background commentable non-processed" customid="Image_25"   datasizewidth="9.4px" datasizeheight="14.7px" dataX="231.0" dataY="643.0"   alt="image" systemName="./images/ad94f5b0-825c-4a16-8483-7a52b05f2386.svg" overlay="#A40A5D">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2902,8 +2902,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_27-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_27-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#A40A5D !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_26-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_26-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#A40A5D !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2927,7 +2927,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_28" class="pie image firer ie-background commentable non-processed" customid="Image_26"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="217.0" dataY="643.0"   alt="image" systemName="./images/96bd6795-939c-49df-9eab-d0bcf39aa49e.svg" overlay="#F6118B">\
+            <div id="s-Image_27" class="pie image firer ie-background commentable non-processed" customid="Image_26"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="217.0" dataY="643.0"   alt="image" systemName="./images/96bd6795-939c-49df-9eab-d0bcf39aa49e.svg" overlay="#F6118B">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2935,8 +2935,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_28-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_28-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#F6118B !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_27-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_27-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#F6118B !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2948,7 +2948,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_18" class="group firer ie-background commentable non-processed" customid="Group_14" datasizewidth="76.0px" datasizeheight="44.0px" >\
-            <div id="s-Image_29" class="pie image firer ie-background commentable non-processed" customid="Image_27"   datasizewidth="9.4px" datasizeheight="13.5px" dataX="248.0" dataY="644.0"   alt="image" systemName="./images/6902bc82-0112-4340-b789-a85da2f9d6cf.svg" overlay="#5D3EBC">\
+            <div id="s-Image_28" class="pie image firer ie-background commentable non-processed" customid="Image_27"   datasizewidth="9.4px" datasizeheight="13.5px" dataX="248.0" dataY="644.0"   alt="image" systemName="./images/6902bc82-0112-4340-b789-a85da2f9d6cf.svg" overlay="#5D3EBC">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2956,8 +2956,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_29-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_29-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#5D3EBC !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_28-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_28-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#5D3EBC !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -2981,7 +2981,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_30" class="pie image firer ie-background commentable non-processed" customid="Image_28"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="234.0" dataY="644.0"   alt="image" systemName="./images/6d39c4d4-5815-4f77-868f-16bd17c34dc7.svg" overlay="#8C5CFF">\
+            <div id="s-Image_29" class="pie image firer ie-background commentable non-processed" customid="Image_28"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="234.0" dataY="644.0"   alt="image" systemName="./images/6d39c4d4-5815-4f77-868f-16bd17c34dc7.svg" overlay="#8C5CFF">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2989,8 +2989,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_30-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_30-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#8C5CFF !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_29-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_29-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#8C5CFF !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3002,7 +3002,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_19" class="group firer ie-background commentable non-processed" customid="Group_15" datasizewidth="76.0px" datasizeheight="41.0px" >\
-            <div id="s-Image_31" class="pie image firer ie-background commentable non-processed" customid="Image_29"   datasizewidth="9.4px" datasizeheight="12.5px" dataX="264.0" dataY="646.0"   alt="image" systemName="./images/f482803f-54ff-46a9-99f3-c1baab917cc7.svg" overlay="#B1B1B1">\
+            <div id="s-Image_30" class="pie image firer ie-background commentable non-processed" customid="Image_29"   datasizewidth="9.4px" datasizeheight="12.5px" dataX="264.0" dataY="646.0"   alt="image" systemName="./images/f482803f-54ff-46a9-99f3-c1baab917cc7.svg" overlay="#B1B1B1">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3010,8 +3010,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_31-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_31-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#B1B1B1 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_30-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_30-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#B1B1B1 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3035,7 +3035,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_32" class="pie image firer ie-background commentable non-processed" customid="Image_30"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="250.0" dataY="645.0"   alt="image" systemName="./images/8b3c8af8-5637-4d44-bce0-e958a2473bf8.svg" overlay="#FFFFFF">\
+            <div id="s-Image_31" class="pie image firer ie-background commentable non-processed" customid="Image_30"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="250.0" dataY="645.0"   alt="image" systemName="./images/8b3c8af8-5637-4d44-bce0-e958a2473bf8.svg" overlay="#FFFFFF">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3043,8 +3043,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_32-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_32-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFFFFF !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_31-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_31-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#FFFFFF !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3056,7 +3056,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_20" class="group firer ie-background commentable non-processed" customid="Group_16" datasizewidth="76.0px" datasizeheight="39.0px" >\
-            <div id="s-Image_33" class="pie image firer ie-background commentable non-processed" customid="Image_31"   datasizewidth="9.4px" datasizeheight="11.9px" dataX="281.0" dataY="646.0"   alt="image" systemName="./images/2495b9d6-1acc-4b87-ad02-e9cbb7b85f84.svg" overlay="#7A7A7A">\
+            <div id="s-Image_32" class="pie image firer ie-background commentable non-processed" customid="Image_31"   datasizewidth="9.4px" datasizeheight="11.9px" dataX="281.0" dataY="646.0"   alt="image" systemName="./images/2495b9d6-1acc-4b87-ad02-e9cbb7b85f84.svg" overlay="#7A7A7A">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3064,8 +3064,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_33-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_33-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#7A7A7A !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_32-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_32-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#7A7A7A !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3089,7 +3089,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_34" class="pie image firer ie-background commentable non-processed" customid="Image_32"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="267.0" dataY="646.0"   alt="image" systemName="./images/86322b1e-98af-4f67-9f56-9a12208dffc3.svg" overlay="#B8B8B8">\
+            <div id="s-Image_33" class="pie image firer ie-background commentable non-processed" customid="Image_32"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="267.0" dataY="646.0"   alt="image" systemName="./images/86322b1e-98af-4f67-9f56-9a12208dffc3.svg" overlay="#B8B8B8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3097,8 +3097,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_34-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_34-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#B8B8B8 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_33-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_33-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#B8B8B8 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3110,7 +3110,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_21" class="group firer ie-background commentable non-processed" customid="Group_17" datasizewidth="76.0px" datasizeheight="37.0px" >\
-            <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_33"   datasizewidth="9.4px" datasizeheight="11.3px" dataX="298.0" dataY="647.0"   alt="image" systemName="./images/f2484632-f7e8-41e3-a29e-2b495a3b3876.svg" overlay="#292929">\
+            <div id="s-Image_34" class="pie image firer ie-background commentable non-processed" customid="Image_33"   datasizewidth="9.4px" datasizeheight="11.3px" dataX="298.0" dataY="647.0"   alt="image" systemName="./images/f2484632-f7e8-41e3-a29e-2b495a3b3876.svg" overlay="#292929">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3118,8 +3118,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_35-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_35-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#292929 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_34-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_34-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#292929 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3143,7 +3143,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_36" class="pie image firer ie-background commentable non-processed" customid="Image_34"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="285.0" dataY="647.0"   alt="image" systemName="./images/72d3a9a0-84fd-4f7d-98ee-e8ac84432cd5.svg" overlay="#3D3D3D">\
+            <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_34"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="285.0" dataY="647.0"   alt="image" systemName="./images/72d3a9a0-84fd-4f7d-98ee-e8ac84432cd5.svg" overlay="#3D3D3D">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3151,8 +3151,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_36-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_36-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#3D3D3D !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_35-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_35-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#3D3D3D !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3164,7 +3164,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_22" class="group firer ie-background commentable non-processed" customid="Group_18" datasizewidth="76.0px" datasizeheight="35.0px" >\
-            <div id="s-Image_37" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="9.4px" datasizeheight="10.6px" dataX="315.0" dataY="648.0"   alt="image" systemName="./images/8c2cd207-c00b-4b0b-8a74-7fddf768f45d.svg" overlay="#000000">\
+            <div id="s-Image_36" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="9.4px" datasizeheight="10.6px" dataX="315.0" dataY="648.0"   alt="image" systemName="./images/8c2cd207-c00b-4b0b-8a74-7fddf768f45d.svg" overlay="#000000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3172,8 +3172,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_37-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_37-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#000000 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_36-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#999696" fill-rule="nonzero" id="s-Image_36-Rectangle-Copy" points="0 7 30 0.01171875 30 319.229141 0 347" style="fill:#000000 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3197,7 +3197,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_38" class="pie image firer ie-background commentable non-processed" customid="Image_36"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="302.0" dataY="647.0"   alt="image" systemName="./images/d34a915e-4b83-41a1-9c38-b7c6dd6d2841.svg" overlay="#000000">\
+            <div id="s-Image_37" class="pie image firer ie-background commentable non-processed" customid="Image_36"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="302.0" dataY="647.0"   alt="image" systemName="./images/d34a915e-4b83-41a1-9c38-b7c6dd6d2841.svg" overlay="#000000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3205,8 +3205,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 	    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->\
                 	    <title>Rectangle Copy 2</title>\
                 	    <desc>Created with Sketch.</desc>\
-                	    <g fill="none" fill-rule="evenodd" id="s-Image_38-Page-1" stroke="none" stroke-width="1">\
-                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_38-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#000000 !important;" />\
+                	    <g fill="none" fill-rule="evenodd" id="s-Image_37-Page-1" stroke="none" stroke-width="1">\
+                	        <polygon fill="#D8D8D8" fill-rule="nonzero" id="s-Image_37-Rectangle-Copy-2" points="29.2819824 0.01171875 75 0.01171875 45 7 0 7" style="fill:#000000 !important;" />\
                 	    </g>\
                 	</svg>\
 \
@@ -3266,7 +3266,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="s-Image_39" class="pie image lockV firer click ie-background commentable non-processed" customid="Left-arrow"   datasizewidth="15.0px" datasizeheight="27.0px" dataX="34.0" dataY="53.0" aspectRatio="1.8"   alt="image" systemName="./images/4592c02a-3820-4561-8969-bf130845daed.svg" overlay="">\
+      <div id="s-Image_38" class="pie image lockV firer click ie-background commentable non-processed" customid="Left-arrow"   datasizewidth="15.0px" datasizeheight="27.0px" dataX="34.0" dataY="53.0" aspectRatio="1.8"   alt="image" systemName="./images/4592c02a-3820-4561-8969-bf130845daed.svg" overlay="">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3275,9 +3275,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           	    <title>Arrow Left</title>\
           	    <desc>Created with Sketch.</desc>\
           	    <defs></defs>\
-          	    <g id="s-Image_39-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
-          	        <g id="s-Image_39-Components" transform="translate(-430.000000, -1276.000000)" fill="#DDDDDD">\
-          	            <g id="s-Image_39-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
+          	    <g id="s-Image_38-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+          	        <g id="s-Image_38-Components" transform="translate(-430.000000, -1276.000000)" fill="#DDDDDD">\
+          	            <g id="s-Image_38-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
           	                <polyline transform="translate(8.000000, 14.000000) scale(-1, 1) translate(-8.000000, -14.000000) " points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0"></polyline>\
           	            </g>\
           	        </g>\
