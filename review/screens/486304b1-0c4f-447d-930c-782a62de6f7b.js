@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-486304b1-0c4f-447d-930c-782a62de6f7b" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="About Us" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607172761684-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607172761684-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607233124066-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/486304b1-0c4f-447d-930c-782a62de6f7b-1607233124066-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="349.0px" datasizeheight="349.0px" dataX="13.0" dataY="39.0"   alt="image">\
         <div class="borderLayer">\
@@ -142,7 +142,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="297.0px" datasizeheight="330.0px" dataX="39.0" dataY="320.0" >\
+      <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="297.0px" datasizeheight="396.0px" dataX="39.0" dataY="320.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -151,14 +151,14 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_3_0">Kejar Kerja, rakyat&rsquo;s choice to accurate and effective upskilling and reskilling recommendations <br /><br />Kejar Kerja aims to help job seekers who are looking to either reskill from their current field or upskill within their current field. <br /><br />Our solution uses Artificial Intelligence and Big Data approach to suggest upskilling and reskilling pathways by taking into account individual skills and interests as well as latest market demands.<br /><br /></span>\
+                <span id="rtr-s-Paragraph_3_0">Kejar Kerja, rakyat&rsquo;s choice to accurate and effective<br /> upskilling and reskilling recommendations, aims to help job seekers who are looking to either reskill or upskill within/from their current field. <br /><br />Our solution uses Artificial Intelligence and Big Data approach <br />to suggest upskilling and reskilling pathways by taking into account individual skills and interests as well as latest market demands.<br /><br />The accuracy and reliability of the recommendations by Kejar Kerja are compliant to the National Occupational Skills Standards (NOSS).<br /><br /></span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
 \
-      <div id="s-Image_5" class="pie image lockV firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="35.0px" datasizeheight="26.0px" dataX="170.0" dataY="650.0" aspectRatio="0.74285716"   alt="image" systemName="./images/7289e761-71a0-4087-b53a-f16a88144311.svg" overlay="">\
+      <div id="s-Image_5" class="pie image lockV firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="35.0px" datasizeheight="26.0px" dataX="170.0" dataY="709.0" aspectRatio="0.74285716"   alt="image" systemName="./images/7289e761-71a0-4087-b53a-f16a88144311.svg" overlay="">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\

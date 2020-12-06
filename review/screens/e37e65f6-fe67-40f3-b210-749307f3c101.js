@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-e37e65f6-fe67-40f3-b210-749307f3c101" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Labour Market Analysis" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607172761684-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607233124066-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e37e65f6-fe67-40f3-b210-749307f3c101-1607233124066-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header_11" datasizewidth="375.0px" datasizeheight="73.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_40"   datasizewidth="375.0px" datasizeheight="73.0px" datasizewidthpx="375.0" datasizeheightpx="73.0" dataX="0.0" dataY="31.0" >\
@@ -1168,24 +1168,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="s-Rectangle_3" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle"   datasizewidth="345.0px" datasizeheight="183.0px" datasizewidthpx="345.0" datasizeheightpx="183.0000000000001" dataX="15.0" dataY="514.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Rectangle_3_0"></span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
 \
       <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1046.0px" datasizeheight="474.0px" >\
-        <div id="s-Table_2" class="pie table firer commentable non-processed" customid="Table 2"  datasizewidth="294.3px" datasizeheight="119.0px" dataX="37.0" dataY="535.0" originalwidth="293.3318572214984px" originalheight="117.98521887677612px" >\
+        <div id="s-Table_2" class="pie table firer commentable non-processed" customid="Table 2"  datasizewidth="294.3px" datasizeheight="119.0px" dataX="38.0" dataY="864.0" originalwidth="293.3318572214984px" originalheight="117.98521887677612px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1829,7 +1814,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             </div>\
           </div>\
         </div>\
-        <div id="shapewrapper-s-Line_4" customid="Line 4" class="shapewrapper shapewrapper-s-Line_4 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="49.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_4" customid="Line 4" class="shapewrapper shapewrapper-s-Line_4 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="50.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_4" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1841,7 +1826,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_5" customid="Line 5" class="shapewrapper shapewrapper-s-Line_5 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="66.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_5" customid="Line 5" class="shapewrapper shapewrapper-s-Line_5 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="67.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_5" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1853,7 +1838,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_6" customid="Line 6" class="shapewrapper shapewrapper-s-Line_6 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="83.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_6" customid="Line 6" class="shapewrapper shapewrapper-s-Line_6 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="84.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_6" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1865,7 +1850,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_7" customid="Line 7" class="shapewrapper shapewrapper-s-Line_7 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="100.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_7" customid="Line 7" class="shapewrapper shapewrapper-s-Line_7 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="101.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_7" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1877,7 +1862,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_8" customid="Line 8" class="shapewrapper shapewrapper-s-Line_8 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="118.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_8" customid="Line 8" class="shapewrapper shapewrapper-s-Line_8 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="119.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_8" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1889,7 +1874,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_9" customid="Line 9" class="shapewrapper shapewrapper-s-Line_9 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="135.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_9" customid="Line 9" class="shapewrapper shapewrapper-s-Line_9 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="136.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_9" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1901,7 +1886,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_10" customid="Line 10" class="shapewrapper shapewrapper-s-Line_10 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="152.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_10" customid="Line 10" class="shapewrapper shapewrapper-s-Line_10 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="153.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_10" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1913,7 +1898,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_11" customid="Line 11" class="shapewrapper shapewrapper-s-Line_11 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="169.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_11" customid="Line 11" class="shapewrapper shapewrapper-s-Line_11 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="170.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_11" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1925,7 +1910,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_12" customid="Line 12" class="shapewrapper shapewrapper-s-Line_12 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="187.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_12" customid="Line 12" class="shapewrapper shapewrapper-s-Line_12 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="188.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_12" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1937,7 +1922,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_13" customid="Line 13" class="shapewrapper shapewrapper-s-Line_13 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="205.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_13" customid="Line 13" class="shapewrapper shapewrapper-s-Line_13 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="206.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_13" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1949,7 +1934,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_14" customid="Line 14" class="shapewrapper shapewrapper-s-Line_14 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="222.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_14" customid="Line 14" class="shapewrapper shapewrapper-s-Line_14 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="223.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_14" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1961,7 +1946,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_15" customid="Line 15" class="shapewrapper shapewrapper-s-Line_15 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="239.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_15" customid="Line 15" class="shapewrapper shapewrapper-s-Line_15 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="240.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_15" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1973,7 +1958,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_16" customid="Line 16" class="shapewrapper shapewrapper-s-Line_16 non-processed"  rotationdeg="90" datasizewidth="115.9px" datasizeheight="1.0px" datasizewidthpx="115.85402890633452" datasizeheightpx="1.0" dataX="-16.0" dataY="612.0" >\
+        <div id="shapewrapper-s-Line_16" customid="Line 16" class="shapewrapper shapewrapper-s-Line_16 non-processed"  rotationdeg="90" datasizewidth="115.9px" datasizeheight="1.0px" datasizewidthpx="115.85402890633452" datasizeheightpx="1.0" dataX="-15.0" dataY="941.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_16" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1985,7 +1970,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_17" customid="Line 17" class="shapewrapper shapewrapper-s-Line_17 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="554.0" >\
+        <div id="shapewrapper-s-Line_17" customid="Line 17" class="shapewrapper shapewrapper-s-Line_17 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="883.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_17" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -1997,7 +1982,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_18" customid="Line 18" class="shapewrapper shapewrapper-s-Line_18 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="567.0" >\
+        <div id="shapewrapper-s-Line_18" customid="Line 18" class="shapewrapper shapewrapper-s-Line_18 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="896.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_18" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2009,7 +1994,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_19" customid="Line 19" class="shapewrapper shapewrapper-s-Line_19 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="579.0" >\
+        <div id="shapewrapper-s-Line_19" customid="Line 19" class="shapewrapper shapewrapper-s-Line_19 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="908.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_19" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2021,7 +2006,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_20" customid="Line 20" class="shapewrapper shapewrapper-s-Line_20 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="592.0" >\
+        <div id="shapewrapper-s-Line_20" customid="Line 20" class="shapewrapper shapewrapper-s-Line_20 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="921.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_20" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2033,7 +2018,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_21" customid="Line 21" class="shapewrapper shapewrapper-s-Line_21 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="604.0" >\
+        <div id="shapewrapper-s-Line_21" customid="Line 21" class="shapewrapper shapewrapper-s-Line_21 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="933.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_21" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2045,7 +2030,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_22" customid="Line 22" class="shapewrapper shapewrapper-s-Line_22 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="618.0" >\
+        <div id="shapewrapper-s-Line_22" customid="Line 22" class="shapewrapper shapewrapper-s-Line_22 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="947.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_22" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2057,7 +2042,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_23" customid="Line 23" class="shapewrapper shapewrapper-s-Line_23 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="630.0" >\
+        <div id="shapewrapper-s-Line_23" customid="Line 23" class="shapewrapper shapewrapper-s-Line_23 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="959.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_23" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2069,7 +2054,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_24" customid="Line 24" class="shapewrapper shapewrapper-s-Line_24 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="644.0" >\
+        <div id="shapewrapper-s-Line_24" customid="Line 24" class="shapewrapper shapewrapper-s-Line_24 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="973.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_24" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2081,7 +2066,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_25" customid="Line 25" class="shapewrapper shapewrapper-s-Line_25 non-processed"   datasizewidth="299.0px" datasizeheight="1.0px" datasizewidthpx="299.0286421771607" datasizeheightpx="1.0" dataX="39.0" dataY="669.0" >\
+        <div id="shapewrapper-s-Line_25" customid="Line 25" class="shapewrapper shapewrapper-s-Line_25 non-processed"   datasizewidth="299.0px" datasizeheight="1.0px" datasizewidthpx="299.0286421771607" datasizeheightpx="1.0" dataX="40.0" dataY="998.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_25" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2093,7 +2078,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_26" customid="Line 26" class="shapewrapper shapewrapper-s-Line_26 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="39.0" dataY="657.0" >\
+        <div id="shapewrapper-s-Line_26" customid="Line 26" class="shapewrapper shapewrapper-s-Line_26 non-processed"   datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.191832979309055" datasizeheightpx="1.0" dataX="40.0" dataY="986.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_26" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2105,7 +2090,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_27" customid="Line 27" class="shapewrapper shapewrapper-s-Line_27 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545381" datasizeheightpx="1.0" dataX="40.0" dataY="550.0" >\
+        <div id="shapewrapper-s-Line_27" customid="Line 27" class="shapewrapper shapewrapper-s-Line_27 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545381" datasizeheightpx="1.0" dataX="41.0" dataY="879.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_27" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2117,7 +2102,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_28" customid="Line 28" class="shapewrapper shapewrapper-s-Line_28 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545264" datasizeheightpx="1.0" dataX="40.0" dataY="563.0" >\
+        <div id="shapewrapper-s-Line_28" customid="Line 28" class="shapewrapper shapewrapper-s-Line_28 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545264" datasizeheightpx="1.0" dataX="41.0" dataY="892.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_28" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2129,7 +2114,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_29" customid="Line 29" class="shapewrapper shapewrapper-s-Line_29 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545278" datasizeheightpx="1.0" dataX="40.0" dataY="577.0" >\
+        <div id="shapewrapper-s-Line_29" customid="Line 29" class="shapewrapper shapewrapper-s-Line_29 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545278" datasizeheightpx="1.0" dataX="41.0" dataY="906.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_29" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2141,7 +2126,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_30" customid="Line 30" class="shapewrapper shapewrapper-s-Line_30 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545264" datasizeheightpx="1.0" dataX="40.0" dataY="589.0" >\
+        <div id="shapewrapper-s-Line_30" customid="Line 30" class="shapewrapper shapewrapper-s-Line_30 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545264" datasizeheightpx="1.0" dataX="41.0" dataY="918.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_30" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2153,7 +2138,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_31" customid="Line 31" class="shapewrapper shapewrapper-s-Line_31 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.95916489654522" datasizeheightpx="1.0" dataX="40.0" dataY="602.0" >\
+        <div id="shapewrapper-s-Line_31" customid="Line 31" class="shapewrapper shapewrapper-s-Line_31 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.95916489654522" datasizeheightpx="1.0" dataX="41.0" dataY="931.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_31" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2165,7 +2150,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_32" customid="Line 32" class="shapewrapper shapewrapper-s-Line_32 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545314" datasizeheightpx="1.0" dataX="40.0" dataY="615.0" >\
+        <div id="shapewrapper-s-Line_32" customid="Line 32" class="shapewrapper shapewrapper-s-Line_32 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545314" datasizeheightpx="1.0" dataX="41.0" dataY="944.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_32" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2177,7 +2162,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_33" customid="Line 33" class="shapewrapper shapewrapper-s-Line_33 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545206" datasizeheightpx="1.0" dataX="40.0" dataY="628.0" >\
+        <div id="shapewrapper-s-Line_33" customid="Line 33" class="shapewrapper shapewrapper-s-Line_33 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545206" datasizeheightpx="1.0" dataX="41.0" dataY="957.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_33" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2189,7 +2174,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_34" customid="Line 34" class="shapewrapper shapewrapper-s-Line_34 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545294" datasizeheightpx="1.0" dataX="40.0" dataY="641.0" >\
+        <div id="shapewrapper-s-Line_34" customid="Line 34" class="shapewrapper shapewrapper-s-Line_34 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545294" datasizeheightpx="1.0" dataX="41.0" dataY="970.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_34" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2201,7 +2186,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_35" customid="Line 35" class="shapewrapper shapewrapper-s-Line_35 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545191" datasizeheightpx="1.0" dataX="40.0" dataY="654.0" >\
+        <div id="shapewrapper-s-Line_35" customid="Line 35" class="shapewrapper shapewrapper-s-Line_35 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545191" datasizeheightpx="1.0" dataX="41.0" dataY="983.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_35" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2213,7 +2198,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_36" customid="Line 36" class="shapewrapper shapewrapper-s-Line_36 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545206" datasizeheightpx="1.0" dataX="40.0" dataY="665.0" >\
+        <div id="shapewrapper-s-Line_36" customid="Line 36" class="shapewrapper shapewrapper-s-Line_36 non-processed"   datasizewidth="11.0px" datasizeheight="1.0px" datasizewidthpx="10.959164896545206" datasizeheightpx="1.0" dataX="41.0" dataY="994.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_36" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2225,7 +2210,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_37" customid="Line 37" class="shapewrapper shapewrapper-s-Line_37 non-processed"   datasizewidth="7.8px" datasizeheight="1.0px" datasizewidthpx="7.827974926104008" datasizeheightpx="1.0" dataX="337.0" dataY="667.0" >\
+        <div id="shapewrapper-s-Line_37" customid="Line 37" class="shapewrapper shapewrapper-s-Line_37 non-processed"   datasizewidth="7.8px" datasizeheight="1.0px" datasizewidthpx="7.827974926104008" datasizeheightpx="1.0" dataX="338.0" dataY="996.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_37" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2237,7 +2222,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_38" customid="Line 38" class="shapewrapper shapewrapper-s-Line_38 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="256.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_38" customid="Line 38" class="shapewrapper shapewrapper-s-Line_38 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="257.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_38" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2249,7 +2234,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_39" customid="Line 39" class="shapewrapper shapewrapper-s-Line_39 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="273.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_39" customid="Line 39" class="shapewrapper shapewrapper-s-Line_39 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="274.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_39" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2261,7 +2246,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_40" customid="Line 40" class="shapewrapper shapewrapper-s-Line_40 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="290.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_40" customid="Line 40" class="shapewrapper shapewrapper-s-Line_40 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="291.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_40" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2273,7 +2258,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_41" customid="Line 41" class="shapewrapper shapewrapper-s-Line_41 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="308.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_41" customid="Line 41" class="shapewrapper shapewrapper-s-Line_41 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="309.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_41" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2285,7 +2270,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </defs>\
             </svg>\
         </div>\
-        <div id="shapewrapper-s-Line_42" customid="Line 42" class="shapewrapper shapewrapper-s-Line_42 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="324.0" dataY="671.0" >\
+        <div id="shapewrapper-s-Line_42" customid="Line 42" class="shapewrapper shapewrapper-s-Line_42 non-processed"  rotationdeg="90" datasizewidth="2.2px" datasizeheight="1.0px" datasizewidthpx="2.1918329793090834" datasizeheightpx="1.0" dataX="325.0" dataY="1000.0" >\
             <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Line_42" class="svgContainer" style="width:100%;height:100%;">\
                 <g>\
                     <g>\
@@ -2300,7 +2285,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
         <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="columns" datasizewidth="939.0px" datasizeheight="347.0px" >\
           <div id="s-Group_6" class="group firer ie-background commentable non-processed" customid="Group_2" datasizewidth="75.0px" datasizeheight="347.0px" >\
-            <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="9.4px" datasizeheight="108.7px" dataX="44.0" dataY="550.0"   alt="image" systemName="./images/dd02947f-77ca-4fde-bd4f-0274b3423c17.svg" overlay="#980000">\
+            <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="9.4px" datasizeheight="108.7px" dataX="45.0" dataY="879.0"   alt="image" systemName="./images/dd02947f-77ca-4fde-bd4f-0274b3423c17.svg" overlay="#980000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2317,7 +2302,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_4" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="14.1px" datasizeheight="106.5px" datasizewidthpx="14.09035486698668" datasizeheightpx="106.46045899501007" dataX="31.0" dataY="551.0" >\
+            <div id="s-Rectangle_4" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="14.1px" datasizeheight="106.5px" datasizewidthpx="14.09035486698668" datasizeheightpx="106.46045899501007" dataX="32.0" dataY="880.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2333,7 +2318,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="23.5px" datasizeheight="2.2px" dataX="31.0" dataY="550.0"   alt="image" systemName="./images/bde73747-8a37-46e2-bb73-2e4fbe850a45.svg" overlay="#C5183B">\
+            <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="23.5px" datasizeheight="2.2px" dataX="32.0" dataY="879.0"   alt="image" systemName="./images/bde73747-8a37-46e2-bb73-2e4fbe850a45.svg" overlay="#C5183B">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2354,7 +2339,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Group_3" datasizewidth="76.0px" datasizeheight="166.0px" >\
-            <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="9.4px" datasizeheight="51.7px" dataX="62.0" dataY="606.0"   alt="image" systemName="./images/09d8b8e0-de3d-447c-a298-6003d7e095bb.svg" overlay="#CC5200">\
+            <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="9.4px" datasizeheight="51.7px" dataX="63.0" dataY="935.0"   alt="image" systemName="./images/09d8b8e0-de3d-447c-a298-6003d7e095bb.svg" overlay="#CC5200">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2371,7 +2356,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_5" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_2"   datasizewidth="14.1px" datasizeheight="50.1px" datasizewidthpx="14.090354866986686" datasizeheightpx="50.09903952706338" dataX="47.0" dataY="608.0" >\
+            <div id="s-Rectangle_5" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_2"   datasizewidth="14.1px" datasizeheight="50.1px" datasizewidthpx="14.090354866986686" datasizeheightpx="50.09903952706338" dataX="48.0" dataY="937.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2387,7 +2372,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_6"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="48.0" dataY="606.0"   alt="image" systemName="./images/208cd93a-5e18-4327-a4a1-20d0927d31f6.svg" overlay="#FF7A00">\
+            <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_6"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="49.0" dataY="935.0"   alt="image" systemName="./images/208cd93a-5e18-4327-a4a1-20d0927d31f6.svg" overlay="#FF7A00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2408,7 +2393,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_8" class="group firer ie-background commentable non-processed" customid="Group_4" datasizewidth="76.0px" datasizeheight="158.0px" >\
-            <div id="s-Image_8" class="pie image firer ie-background commentable non-processed" customid="Image_7"   datasizewidth="9.4px" datasizeheight="49.2px" dataX="79.0" dataY="609.0"   alt="image" systemName="./images/971bd970-9dc8-4f3d-ab1d-c4abff47ad90.svg" overlay="#CC7E00">\
+            <div id="s-Image_8" class="pie image firer ie-background commentable non-processed" customid="Image_7"   datasizewidth="9.4px" datasizeheight="49.2px" dataX="80.0" dataY="938.0"   alt="image" systemName="./images/971bd970-9dc8-4f3d-ab1d-c4abff47ad90.svg" overlay="#CC7E00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2425,7 +2410,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_6" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="14.1px" datasizeheight="47.6px" datasizewidthpx="14.090354866986686" datasizeheightpx="47.594087550710356" dataX="64.0" dataY="611.0" >\
+            <div id="s-Rectangle_6" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_3"   datasizewidth="14.1px" datasizeheight="47.6px" datasizewidthpx="14.090354866986686" datasizeheightpx="47.594087550710356" dataX="65.0" dataY="940.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2441,7 +2426,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_9" class="pie image firer ie-background commentable non-processed" customid="Image_8"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="65.0" dataY="609.0"   alt="image" systemName="./images/0e04f45a-55f5-46d6-ac0e-c06405b4fa2a.svg" overlay="#FFBE02">\
+            <div id="s-Image_9" class="pie image firer ie-background commentable non-processed" customid="Image_8"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="66.0" dataY="938.0"   alt="image" systemName="./images/0e04f45a-55f5-46d6-ac0e-c06405b4fa2a.svg" overlay="#FFBE02">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2462,7 +2447,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_9" class="group firer ie-background commentable non-processed" customid="Group_5" datasizewidth="76.0px" datasizeheight="120.0px" >\
-            <div id="s-Image_10" class="pie image firer ie-background commentable non-processed" customid="Image_9"   datasizewidth="9.4px" datasizeheight="37.3px" dataX="95.0" dataY="621.0"   alt="image" systemName="./images/91ee8a48-c39b-41e7-a0aa-60e0998e599d.svg" overlay="#CAA800">\
+            <div id="s-Image_10" class="pie image firer ie-background commentable non-processed" customid="Image_9"   datasizewidth="9.4px" datasizeheight="37.3px" dataX="96.0" dataY="950.0"   alt="image" systemName="./images/91ee8a48-c39b-41e7-a0aa-60e0998e599d.svg" overlay="#CAA800">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2479,7 +2464,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="14.1px" datasizeheight="35.7px" datasizewidthpx="14.090354866986573" datasizeheightpx="35.69556566303277" dataX="80.0" dataY="622.0" >\
+            <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="14.1px" datasizeheight="35.7px" datasizewidthpx="14.090354866986573" datasizeheightpx="35.69556566303277" dataX="81.0" dataY="951.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2495,7 +2480,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_11" class="pie image firer ie-background commentable non-processed" customid="Image_10"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="81.0" dataY="621.0"   alt="image" systemName="./images/d203b59b-89ae-451d-a4ec-899e8139ce3b.svg" overlay="#FFFC00">\
+            <div id="s-Image_11" class="pie image firer ie-background commentable non-processed" customid="Image_10"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="82.0" dataY="950.0"   alt="image" systemName="./images/d203b59b-89ae-451d-a4ec-899e8139ce3b.svg" overlay="#FFFC00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2516,7 +2501,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_10" class="group firer ie-background commentable non-processed" customid="Group_6" datasizewidth="76.0px" datasizeheight="101.0px" >\
-            <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image_11"   datasizewidth="9.4px" datasizeheight="31.3px" dataX="112.0" dataY="627.0"   alt="image" systemName="./images/d300cf7a-1db3-47d6-9b18-4bb5917f11da.svg" overlay="#C6CC00">\
+            <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image_11"   datasizewidth="9.4px" datasizeheight="31.3px" dataX="113.0" dataY="956.0"   alt="image" systemName="./images/d300cf7a-1db3-47d6-9b18-4bb5917f11da.svg" overlay="#C6CC00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2533,7 +2518,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_8" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_5"   datasizewidth="14.1px" datasizeheight="29.7px" datasizewidthpx="14.090354866986686" datasizeheightpx="29.746304719193745" dataX="98.0" dataY="628.0" >\
+            <div id="s-Rectangle_8" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_5"   datasizewidth="14.1px" datasizeheight="29.7px" datasizewidthpx="14.090354866986686" datasizeheightpx="29.746304719193745" dataX="99.0" dataY="957.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2549,7 +2534,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_12"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="98.0" dataY="627.0"   alt="image" systemName="./images/aaf9f8e6-4cc3-430e-9501-26e44592e889.svg" overlay="#FEFF00">\
+            <div id="s-Image_13" class="pie image firer ie-background commentable non-processed" customid="Image_12"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="99.0" dataY="956.0"   alt="image" systemName="./images/aaf9f8e6-4cc3-430e-9501-26e44592e889.svg" overlay="#FEFF00">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2570,7 +2555,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_11" class="group firer ie-background commentable non-processed" customid="Group_7" datasizewidth="76.0px" datasizeheight="97.0px" >\
-            <div id="s-Image_14" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="9.4px" datasizeheight="30.1px" dataX="129.0" dataY="628.0"   alt="image" systemName="./images/595c399e-ae02-4dde-8d88-72f71db6b292.svg" overlay="#8DB205">\
+            <div id="s-Image_14" class="pie image firer ie-background commentable non-processed" customid="Image_13"   datasizewidth="9.4px" datasizeheight="30.1px" dataX="130.0" dataY="957.0"   alt="image" systemName="./images/595c399e-ae02-4dde-8d88-72f71db6b292.svg" overlay="#8DB205">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2587,7 +2572,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_9" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_6"   datasizewidth="14.1px" datasizeheight="28.5px" datasizewidthpx="14.090354866986573" datasizeheightpx="28.493828731017516" dataX="115.0" dataY="630.0" >\
+            <div id="s-Rectangle_9" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_6"   datasizewidth="14.1px" datasizeheight="28.5px" datasizewidthpx="14.090354866986573" datasizeheightpx="28.493828731017516" dataX="116.0" dataY="959.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2603,7 +2588,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_15" class="pie image firer ie-background commentable non-processed" customid="Image_14"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="116.0" dataY="627.0"   alt="image" systemName="./images/d5b4b935-0b8f-4537-ac1f-aab108abd478.svg" overlay="#D4FF0C">\
+            <div id="s-Image_15" class="pie image firer ie-background commentable non-processed" customid="Image_14"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="117.0" dataY="956.0"   alt="image" systemName="./images/d5b4b935-0b8f-4537-ac1f-aab108abd478.svg" overlay="#D4FF0C">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2624,7 +2609,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_12" class="group firer ie-background commentable non-processed" customid="Group_8" datasizewidth="76.0px" datasizeheight="90.0px" >\
-            <div id="s-Image_16" class="pie image firer ie-background commentable non-processed" customid="Image_15"   datasizewidth="9.4px" datasizeheight="27.9px" dataX="146.0" dataY="630.0"   alt="image" systemName="./images/25a2a07b-739a-40a1-b68f-8a693b578d31.svg" overlay="#01A811">\
+            <div id="s-Image_16" class="pie image firer ie-background commentable non-processed" customid="Image_15"   datasizewidth="9.4px" datasizeheight="27.9px" dataX="147.0" dataY="959.0"   alt="image" systemName="./images/25a2a07b-739a-40a1-b68f-8a693b578d31.svg" overlay="#01A811">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2641,7 +2626,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_10" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="14.1px" datasizeheight="26.3px" datasizewidthpx="14.090354866986672" datasizeheightpx="26.30199575170832" dataX="132.0" dataY="631.0" >\
+            <div id="s-Rectangle_10" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="14.1px" datasizeheight="26.3px" datasizewidthpx="14.090354866986672" datasizeheightpx="26.30199575170832" dataX="133.0" dataY="960.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2657,7 +2642,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_17" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="133.0" dataY="630.0"   alt="image" systemName="./images/2946adda-6264-48ca-b141-e49b303a8494.svg" overlay="#0BFC18">\
+            <div id="s-Image_17" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="134.0" dataY="959.0"   alt="image" systemName="./images/2946adda-6264-48ca-b141-e49b303a8494.svg" overlay="#0BFC18">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2678,7 +2663,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_13" class="group firer ie-background commentable non-processed" customid="Group_9" datasizewidth="76.0px" datasizeheight="71.0px" >\
-            <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_17"   datasizewidth="9.4px" datasizeheight="21.9px" dataX="163.0" dataY="636.0"   alt="image" systemName="./images/3ae2578c-23dd-46fd-b2ff-40e24d8a8a8f.svg" overlay="#0A71A6">\
+            <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_17"   datasizewidth="9.4px" datasizeheight="21.9px" dataX="164.0" dataY="965.0"   alt="image" systemName="./images/3ae2578c-23dd-46fd-b2ff-40e24d8a8a8f.svg" overlay="#0A71A6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2695,7 +2680,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_11" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_8"   datasizewidth="14.1px" datasizeheight="20.4px" datasizewidthpx="14.090354866986587" datasizeheightpx="20.352734807869524" dataX="149.0" dataY="638.0" >\
+            <div id="s-Rectangle_11" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_8"   datasizewidth="14.1px" datasizeheight="20.4px" datasizewidthpx="14.090354866986587" datasizeheightpx="20.352734807869524" dataX="150.0" dataY="967.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2711,7 +2696,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_18"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="150.0" dataY="636.0"   alt="image" systemName="./images/dff4a4e3-55fd-4202-8d64-2435ad834fda.svg" overlay="#0FAAF8">\
+            <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_18"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="151.0" dataY="965.0"   alt="image" systemName="./images/dff4a4e3-55fd-4202-8d64-2435ad834fda.svg" overlay="#0FAAF8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2732,7 +2717,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_14" class="group firer ie-background commentable non-processed" customid="Group_10" datasizewidth="76.0px" datasizeheight="67.0px" >\
-            <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_19"   datasizewidth="9.4px" datasizeheight="20.7px" dataX="179.0" dataY="638.0"   alt="image" systemName="./images/e17af287-d412-4c9c-ab3d-21b50e98115d.svg" overlay="#0942A7">\
+            <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_19"   datasizewidth="9.4px" datasizeheight="20.7px" dataX="180.0" dataY="967.0"   alt="image" systemName="./images/e17af287-d412-4c9c-ab3d-21b50e98115d.svg" overlay="#0942A7">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2749,7 +2734,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_12" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_9"   datasizewidth="14.1px" datasizeheight="19.1px" datasizewidthpx="14.090354866986786" datasizeheightpx="19.100258819692954" dataX="165.0" dataY="640.0" >\
+            <div id="s-Rectangle_12" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_9"   datasizewidth="14.1px" datasizeheight="19.1px" datasizewidthpx="14.090354866986786" datasizeheightpx="19.100258819692954" dataX="166.0" dataY="969.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2765,7 +2750,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_21" class="pie image firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="166.0" dataY="638.0"   alt="image" systemName="./images/9edbaed0-66dc-4618-87a3-4291bfdcf306.svg" overlay="#0F62FB">\
+            <div id="s-Image_21" class="pie image firer ie-background commentable non-processed" customid="Image_20"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="167.0" dataY="967.0"   alt="image" systemName="./images/9edbaed0-66dc-4618-87a3-4291bfdcf306.svg" overlay="#0F62FB">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2786,7 +2771,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_15" class="group firer ie-background commentable non-processed" customid="Group_11" datasizewidth="76.0px" datasizeheight="63.0px" >\
-            <div id="s-Image_22" class="pie image firer ie-background commentable non-processed" customid="Image_21"   datasizewidth="9.4px" datasizeheight="19.4px" dataX="196.0" dataY="639.0"   alt="image" systemName="./images/ee6623bc-44d0-4cac-93a5-56c3497236d8.svg" overlay="#220AA6">\
+            <div id="s-Image_22" class="pie image firer ie-background commentable non-processed" customid="Image_21"   datasizewidth="9.4px" datasizeheight="19.4px" dataX="197.0" dataY="968.0"   alt="image" systemName="./images/ee6623bc-44d0-4cac-93a5-56c3497236d8.svg" overlay="#220AA6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2803,7 +2788,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_13" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_10"   datasizewidth="14.1px" datasizeheight="17.8px" datasizewidthpx="14.090354866986786" datasizeheightpx="17.847782831516383" dataX="182.0" dataY="640.0" >\
+            <div id="s-Rectangle_13" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_10"   datasizewidth="14.1px" datasizeheight="17.8px" datasizewidthpx="14.090354866986786" datasizeheightpx="17.847782831516383" dataX="183.0" dataY="969.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2819,7 +2804,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_23" class="pie image firer ie-background commentable non-processed" customid="Image_22"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="183.0" dataY="639.0"   alt="image" systemName="./images/c3cce9b9-465e-4ac7-acf4-8d01221a416b.svg" overlay="#3210FA">\
+            <div id="s-Image_23" class="pie image firer ie-background commentable non-processed" customid="Image_22"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="184.0" dataY="968.0"   alt="image" systemName="./images/c3cce9b9-465e-4ac7-acf4-8d01221a416b.svg" overlay="#3210FA">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2840,7 +2825,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_16" class="group firer ie-background commentable non-processed" customid="Group_12" datasizewidth="76.0px" datasizeheight="53.0px" >\
-            <div id="s-Image_24" class="pie image firer ie-background commentable non-processed" customid="Image_23"   datasizewidth="9.4px" datasizeheight="16.3px" dataX="214.0" dataY="641.0"   alt="image" systemName="./images/bfa391d3-0479-47b9-8069-493dc45f2fd3.svg" overlay="#6E0AA6">\
+            <div id="s-Image_24" class="pie image firer ie-background commentable non-processed" customid="Image_23"   datasizewidth="9.4px" datasizeheight="16.3px" dataX="215.0" dataY="970.0"   alt="image" systemName="./images/bfa391d3-0479-47b9-8069-493dc45f2fd3.svg" overlay="#6E0AA6">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2857,7 +2842,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_14" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_11"   datasizewidth="14.1px" datasizeheight="14.4px" datasizewidthpx="14.090354866986786" datasizeheightpx="14.403473864030957" dataX="199.0" dataY="643.0" >\
+            <div id="s-Rectangle_14" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_11"   datasizewidth="14.1px" datasizeheight="14.4px" datasizewidthpx="14.090354866986786" datasizeheightpx="14.403473864030957" dataX="200.0" dataY="972.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2873,7 +2858,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_25" class="pie image firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="200.0" dataY="641.0"   alt="image" systemName="./images/c3b827f5-f546-4b80-91d9-008450b009e5.svg" overlay="#A60FF8">\
+            <div id="s-Image_25" class="pie image firer ie-background commentable non-processed" customid="Image_24"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="201.0" dataY="970.0"   alt="image" systemName="./images/c3b827f5-f546-4b80-91d9-008450b009e5.svg" overlay="#A60FF8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2894,7 +2879,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_17" class="group firer ie-background commentable non-processed" customid="Group_13" datasizewidth="76.0px" datasizeheight="48.0px" >\
-            <div id="s-Image_26" class="pie image firer ie-background commentable non-processed" customid="Image_25"   datasizewidth="9.4px" datasizeheight="14.7px" dataX="231.0" dataY="643.0"   alt="image" systemName="./images/ad94f5b0-825c-4a16-8483-7a52b05f2386.svg" overlay="#A40A5D">\
+            <div id="s-Image_26" class="pie image firer ie-background commentable non-processed" customid="Image_25"   datasizewidth="9.4px" datasizeheight="14.7px" dataX="232.0" dataY="972.0"   alt="image" systemName="./images/ad94f5b0-825c-4a16-8483-7a52b05f2386.svg" overlay="#A40A5D">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2911,7 +2896,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_15" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_12"   datasizewidth="14.1px" datasizeheight="13.2px" datasizewidthpx="14.090354866986786" datasizeheightpx="13.15099787585416" dataX="216.0" dataY="645.0" >\
+            <div id="s-Rectangle_15" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_12"   datasizewidth="14.1px" datasizeheight="13.2px" datasizewidthpx="14.090354866986786" datasizeheightpx="13.15099787585416" dataX="217.0" dataY="974.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2927,7 +2912,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_27" class="pie image firer ie-background commentable non-processed" customid="Image_26"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="217.0" dataY="643.0"   alt="image" systemName="./images/96bd6795-939c-49df-9eab-d0bcf39aa49e.svg" overlay="#F6118B">\
+            <div id="s-Image_27" class="pie image firer ie-background commentable non-processed" customid="Image_26"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="218.0" dataY="972.0"   alt="image" systemName="./images/96bd6795-939c-49df-9eab-d0bcf39aa49e.svg" overlay="#F6118B">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2948,7 +2933,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_18" class="group firer ie-background commentable non-processed" customid="Group_14" datasizewidth="76.0px" datasizeheight="44.0px" >\
-            <div id="s-Image_28" class="pie image firer ie-background commentable non-processed" customid="Image_27"   datasizewidth="9.4px" datasizeheight="13.5px" dataX="248.0" dataY="644.0"   alt="image" systemName="./images/6902bc82-0112-4340-b789-a85da2f9d6cf.svg" overlay="#5D3EBC">\
+            <div id="s-Image_28" class="pie image firer ie-background commentable non-processed" customid="Image_27"   datasizewidth="9.4px" datasizeheight="13.5px" dataX="249.0" dataY="973.0"   alt="image" systemName="./images/6902bc82-0112-4340-b789-a85da2f9d6cf.svg" overlay="#5D3EBC">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -2965,7 +2950,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_16" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_13"   datasizewidth="14.1px" datasizeheight="11.9px" datasizewidthpx="14.090354866986587" datasizeheightpx="11.898521887677589" dataX="233.0" dataY="646.0" >\
+            <div id="s-Rectangle_16" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_13"   datasizewidth="14.1px" datasizeheight="11.9px" datasizewidthpx="14.090354866986587" datasizeheightpx="11.898521887677589" dataX="234.0" dataY="975.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -2981,7 +2966,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_29" class="pie image firer ie-background commentable non-processed" customid="Image_28"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="234.0" dataY="644.0"   alt="image" systemName="./images/6d39c4d4-5815-4f77-868f-16bd17c34dc7.svg" overlay="#8C5CFF">\
+            <div id="s-Image_29" class="pie image firer ie-background commentable non-processed" customid="Image_28"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="235.0" dataY="973.0"   alt="image" systemName="./images/6d39c4d4-5815-4f77-868f-16bd17c34dc7.svg" overlay="#8C5CFF">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3002,7 +2987,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_19" class="group firer ie-background commentable non-processed" customid="Group_15" datasizewidth="76.0px" datasizeheight="41.0px" >\
-            <div id="s-Image_30" class="pie image firer ie-background commentable non-processed" customid="Image_29"   datasizewidth="9.4px" datasizeheight="12.5px" dataX="264.0" dataY="646.0"   alt="image" systemName="./images/f482803f-54ff-46a9-99f3-c1baab917cc7.svg" overlay="#B1B1B1">\
+            <div id="s-Image_30" class="pie image firer ie-background commentable non-processed" customid="Image_29"   datasizewidth="9.4px" datasizeheight="12.5px" dataX="265.0" dataY="975.0"   alt="image" systemName="./images/f482803f-54ff-46a9-99f3-c1baab917cc7.svg" overlay="#B1B1B1">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3019,7 +3004,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_14"   datasizewidth="14.1px" datasizeheight="11.0px" datasizewidthpx="14.090354866986814" datasizeheightpx="10.95916489654519" dataX="249.0" dataY="647.0" >\
+            <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_14"   datasizewidth="14.1px" datasizeheight="11.0px" datasizewidthpx="14.090354866986814" datasizeheightpx="10.95916489654519" dataX="250.0" dataY="976.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -3035,7 +3020,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_31" class="pie image firer ie-background commentable non-processed" customid="Image_30"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="250.0" dataY="645.0"   alt="image" systemName="./images/8b3c8af8-5637-4d44-bce0-e958a2473bf8.svg" overlay="#FFFFFF">\
+            <div id="s-Image_31" class="pie image firer ie-background commentable non-processed" customid="Image_30"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="251.0" dataY="974.0"   alt="image" systemName="./images/8b3c8af8-5637-4d44-bce0-e958a2473bf8.svg" overlay="#FFFFFF">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3056,7 +3041,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_20" class="group firer ie-background commentable non-processed" customid="Group_16" datasizewidth="76.0px" datasizeheight="39.0px" >\
-            <div id="s-Image_32" class="pie image firer ie-background commentable non-processed" customid="Image_31"   datasizewidth="9.4px" datasizeheight="11.9px" dataX="281.0" dataY="646.0"   alt="image" systemName="./images/2495b9d6-1acc-4b87-ad02-e9cbb7b85f84.svg" overlay="#7A7A7A">\
+            <div id="s-Image_32" class="pie image firer ie-background commentable non-processed" customid="Image_31"   datasizewidth="9.4px" datasizeheight="11.9px" dataX="282.0" dataY="975.0"   alt="image" systemName="./images/2495b9d6-1acc-4b87-ad02-e9cbb7b85f84.svg" overlay="#7A7A7A">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3073,7 +3058,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_15"   datasizewidth="14.1px" datasizeheight="10.3px" datasizewidthpx="14.090354866986786" datasizeheightpx="10.332926902456848" dataX="267.0" dataY="648.0" >\
+            <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_15"   datasizewidth="14.1px" datasizeheight="10.3px" datasizewidthpx="14.090354866986786" datasizeheightpx="10.332926902456848" dataX="268.0" dataY="977.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -3089,7 +3074,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_33" class="pie image firer ie-background commentable non-processed" customid="Image_32"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="267.0" dataY="646.0"   alt="image" systemName="./images/86322b1e-98af-4f67-9f56-9a12208dffc3.svg" overlay="#B8B8B8">\
+            <div id="s-Image_33" class="pie image firer ie-background commentable non-processed" customid="Image_32"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="268.0" dataY="975.0"   alt="image" systemName="./images/86322b1e-98af-4f67-9f56-9a12208dffc3.svg" overlay="#B8B8B8">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3110,7 +3095,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_21" class="group firer ie-background commentable non-processed" customid="Group_17" datasizewidth="76.0px" datasizeheight="37.0px" >\
-            <div id="s-Image_34" class="pie image firer ie-background commentable non-processed" customid="Image_33"   datasizewidth="9.4px" datasizeheight="11.3px" dataX="298.0" dataY="647.0"   alt="image" systemName="./images/f2484632-f7e8-41e3-a29e-2b495a3b3876.svg" overlay="#292929">\
+            <div id="s-Image_34" class="pie image firer ie-background commentable non-processed" customid="Image_33"   datasizewidth="9.4px" datasizeheight="11.3px" dataX="299.0" dataY="976.0"   alt="image" systemName="./images/f2484632-f7e8-41e3-a29e-2b495a3b3876.svg" overlay="#292929">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3127,7 +3112,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_19" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_16"   datasizewidth="14.1px" datasizeheight="9.7px" datasizewidthpx="14.090354866986786" datasizeheightpx="9.706688908368392" dataX="284.0" dataY="648.0" >\
+            <div id="s-Rectangle_19" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_16"   datasizewidth="14.1px" datasizeheight="9.7px" datasizewidthpx="14.090354866986786" datasizeheightpx="9.706688908368392" dataX="285.0" dataY="977.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -3143,7 +3128,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_34"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="285.0" dataY="647.0"   alt="image" systemName="./images/72d3a9a0-84fd-4f7d-98ee-e8ac84432cd5.svg" overlay="#3D3D3D">\
+            <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_34"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="286.0" dataY="976.0"   alt="image" systemName="./images/72d3a9a0-84fd-4f7d-98ee-e8ac84432cd5.svg" overlay="#3D3D3D">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3164,7 +3149,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
 \
           <div id="s-Group_22" class="group firer ie-background commentable non-processed" customid="Group_18" datasizewidth="76.0px" datasizeheight="35.0px" >\
-            <div id="s-Image_36" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="9.4px" datasizeheight="10.6px" dataX="315.0" dataY="648.0"   alt="image" systemName="./images/8c2cd207-c00b-4b0b-8a74-7fddf768f45d.svg" overlay="#000000">\
+            <div id="s-Image_36" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="9.4px" datasizeheight="10.6px" dataX="316.0" dataY="977.0"   alt="image" systemName="./images/8c2cd207-c00b-4b0b-8a74-7fddf768f45d.svg" overlay="#000000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3181,7 +3166,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Rectangle_20" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_17"   datasizewidth="14.1px" datasizeheight="9.1px" datasizewidthpx="14.090354866986786" datasizeheightpx="9.080450914280277" dataX="301.0" dataY="649.0" >\
+            <div id="s-Rectangle_20" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_17"   datasizewidth="14.1px" datasizeheight="9.1px" datasizewidthpx="14.090354866986786" datasizeheightpx="9.080450914280277" dataX="302.0" dataY="978.0" >\
               <div class="backgroundLayer">\
                 <div class="colorLayer"></div>\
                 <div class="imageLayer"></div>\
@@ -3197,7 +3182,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
               </div>\
             </div>\
 \
-            <div id="s-Image_37" class="pie image firer ie-background commentable non-processed" customid="Image_36"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="302.0" dataY="647.0"   alt="image" systemName="./images/d34a915e-4b83-41a1-9c38-b7c6dd6d2841.svg" overlay="#000000">\
+            <div id="s-Image_37" class="pie image firer ie-background commentable non-processed" customid="Image_36"   datasizewidth="23.5px" datasizeheight="1.9px" dataX="303.0" dataY="976.0"   alt="image" systemName="./images/d34a915e-4b83-41a1-9c38-b7c6dd6d2841.svg" overlay="#000000">\
               <div class="borderLayer">\
               	<div class="imageViewport">\
                 	<?xml version="1.0" encoding="UTF-8"?>\
@@ -3235,7 +3220,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_6" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="340.0px" datasizeheight="118.0px" dataX="17.5" dataY="396.0" >\
+      <div id="s-Paragraph_6" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="340.0px" datasizeheight="1056.0px" dataX="18.0" dataY="390.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3244,22 +3229,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_6_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et risus felis. Sed ac sagittis elit. Vivamus scelerisque justo id eros venenatis faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et risus felis. Sed ac sagittis elit.</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_7" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="340.0px" datasizeheight="118.0px" dataX="27.0" dataY="715.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_7_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et risus felis. Sed ac sagittis elit. Vivamus scelerisque justo id eros venenatis faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et risus felis. Sed ac sagittis elit.</span>\
+                <span id="rtr-s-Paragraph_6_0">KEY REVIEWS<br /></span><span id="rtr-s-Paragraph_6_1">▪ Labour force in Malaysia grew 1.7 per cent year-on-year to 15.8 million persons, resulting in<br />the increase of labour force participation rate (LFPR) by 0.1 percentage point to<br />68.8 per cent.<br />▪ The unemployment rate rose noticeably to 3.9 per cent after ranging between 3.2 to<br />3.4 per cent on a monthly basis in 2018 and 2019. The Movement Control Order (MCO) which<br />started on the second half of March affected the number of unemployed persons with increased<br />by 16.2 per cent over the month to 610.5 thousand persons.<br />▪ In Q1 2020, total jobs in the private sector which comprised of filled jobs and job vacancies<br />went up by 18 thousand to 8.6 million. Following the slower growth of filled jobs and decrease<br />in job vacancies, the number of jobs during this quarter grew marginally as compared to the<br />past four quarters in 2019.<br /><br /><br /><br /><br /><br /><br /><br /><br />▪ Labour productivity for Q1 2020, measured as ratio of value added to employment recorded<br />a decline of 0.8 per cent from 1.4 per cent in Q4 2019 with value added per employment<br />RM22,578 (Q4 2019: RM24,263). Whereas labour productivity as measured by value added<br />per hour worked rose 2.1 per cent (Q4 2019: 1.4%) with the level of value added per hour<br />worked at RM40 per hour (Q4 2019: RM42 per hour). The increase in labour productivity per<br />hour worked in this quarter was due to larger decline in hours worked as against moderation in<br />the output produced.<br />▪ The status of the labour demand and supply for the Q1 2020 gave an early signal of<br />disequilibrium in the labour market. An analysis of the impact of COVID-19 on the labour<br />market is available in a box article in this report.</span>\
               </div>\
             </div>\
           </div>\

@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-7dfe5cef-3508-4db2-80fc-772077abbe0c" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home Page" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607172761684-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607172761684-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607233124066-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/7dfe5cef-3508-4db2-80fc-772077abbe0c-1607233124066-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Blog-1" datasizewidth="375.0px" datasizeheight="667.0px" >\
         <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="21.0px" datasizeheight="11.0px" dataX="830.0" dataY="50.0"   alt="image" systemName="./images/9ab560ca-4c8d-40d4-869e-9adcc8801c51.svg" overlay="#282828">\
@@ -599,22 +599,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_12" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_33"   datasizewidth="97.0px" datasizeheight="21.0px" dataX="96.5" dataY="461.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_12_0">Collaborators</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_13" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_34"   datasizewidth="64.3px" datasizeheight="21.0px" dataX="94.0" dataY="512.5" >\
+        <div id="s-Paragraph_13" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_34"   datasizewidth="64.3px" datasizeheight="21.0px" dataX="94.0" dataY="456.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -671,7 +656,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_16" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_34"   datasizewidth="57.1px" datasizeheight="21.0px" dataX="104.0" dataY="559.5" >\
+        <div id="s-Paragraph_16" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_34"   datasizewidth="57.1px" datasizeheight="21.0px" dataX="95.0" dataY="503.5" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\

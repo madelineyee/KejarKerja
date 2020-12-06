@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -12,12 +12,12 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-0b0245c2-1174-49d6-9b51-f992b286062f" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Skill Gap Analysis 2" width="375" height="812">\
+    <div id="s-0b0245c2-1174-49d6-9b51-f992b286062f" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Skill Gap Analysis Results" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607172761684-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607172761684-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607233124066-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0b0245c2-1174-49d6-9b51-f992b286062f-1607233124066-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="86.9" dataY="130.0" >\
         <div class="backgroundLayer">\
@@ -533,7 +533,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                         </div>\
                       </div>\
                     </div>\
-                    <div id="s-Paragraph_19" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_29"   datasizewidth="171.1px" datasizeheight="19.0px" dataX="27.0" dataY="212.0" >\
+                    <div id="s-Paragraph_19" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Text_29"   datasizewidth="171.1px" datasizeheight="19.0px" dataX="27.0" dataY="212.0" >\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
                         <div class="imageLayer"></div>\
@@ -548,7 +548,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                         </div>\
                       </div>\
                     </div>\
-                    <div id="s-Paragraph_20" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_7"   datasizewidth="199.0px" datasizeheight="34.0px" dataX="28.0" dataY="235.0" >\
+                    <div id="s-Paragraph_20" class="pie richtext manualfit firer click ie-background commentable non-processed" customid="Paragraph_7"   datasizewidth="199.0px" datasizeheight="34.0px" dataX="28.0" dataY="235.0" >\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
                         <div class="imageLayer"></div>\
@@ -652,7 +652,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
 \
-        <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="321.6px" datasizeheight="198.7px" dataX="27.7" dataY="822.0"   alt="image">\
+        <div id="s-Image_4" class="pie image firer click ie-background commentable non-processed" customid="Image 1"   datasizewidth="321.6px" datasizeheight="198.7px" dataX="27.7" dataY="822.0"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
           		<img src="./images/cc2b1952-e7cd-45d4-b2fc-ed225ff5b038.png" />\
@@ -1127,6 +1127,70 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
+      <div id="s-Rectangle_8" class="pie rectangle manualfit firer pageload commentable non-processed" customid="Rectangle"   datasizewidth="374.0px" datasizeheight="700.5px" datasizewidthpx="374.0000000000001" datasizeheightpx="700.5" dataX="1.5" dataY="111.5" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_8_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_21" class="group firer ie-background commentable non-processed" customid="Progress-bar" datasizewidth="306.0px" datasizeheight="5.0px" >\
+        <div id="s-Rectangle_9" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="306.0px" datasizeheight="5.0px" datasizewidthpx="306.0" datasizeheightpx="5.0" dataX="40.1" dataY="403.5" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_9_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Rectangle_10" class="pie rectangle manualfit firer pageload commentable non-processed" customid="Rectangle_17"   datasizewidth="2.0px" datasizeheight="5.0px" datasizewidthpx="2.000000000000057" datasizeheightpx="5.0" dataX="40.1" dataY="403.5" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_10_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_28" class="pie richtext autofit firer ie-background commentable non-processed" customid="Title"   datasizewidth="220.9px" datasizeheight="36.0px" dataX="77.0" dataY="335.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_28_0">Analysing Skill Gap</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\

@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607172761684-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1607233124066-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-a1f1d655-27cd-4d85-bf29-b567712eff40" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Technical skill test" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607172761684.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607172761684-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607172761684-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607233124066.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607233124066-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a1f1d655-27cd-4d85-bf29-b567712eff40-1607233124066-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header_11" datasizewidth="375.0px" datasizeheight="73.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_40"   datasizewidth="375.0px" datasizeheight="73.0px" datasizewidthpx="375.0" datasizeheightpx="73.0" dataX="0.0" dataY="31.0" >\
@@ -134,7 +134,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
 \
-      <div id="s-Image_6" class="pie image lockV firer click ie-background commentable non-processed" customid="Left-arrow"   datasizewidth="15.0px" datasizeheight="27.0px" dataX="25.0" dataY="50.0" aspectRatio="1.8"   alt="image" systemName="./images/27fae8cd-e7b2-429a-b933-03f98a3c21fc.svg" overlay="">\
+      <div id="s-Image_4" class="pie image lockV firer click ie-background commentable non-processed" customid="Left-arrow"   datasizewidth="15.0px" datasizeheight="27.0px" dataX="25.0" dataY="50.0" aspectRatio="1.8"   alt="image" systemName="./images/27fae8cd-e7b2-429a-b933-03f98a3c21fc.svg" overlay="">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -143,9 +143,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           	    <title>Arrow Left</title>\
           	    <desc>Created with Sketch.</desc>\
           	    <defs></defs>\
-          	    <g id="s-Image_6-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
-          	        <g id="s-Image_6-Components" transform="translate(-430.000000, -1276.000000)" fill="#DDDDDD">\
-          	            <g id="s-Image_6-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
+          	    <g id="s-Image_4-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+          	        <g id="s-Image_4-Components" transform="translate(-430.000000, -1276.000000)" fill="#DDDDDD">\
+          	            <g id="s-Image_4-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
           	                <polyline transform="translate(8.000000, 14.000000) scale(-1, 1) translate(-8.000000, -14.000000) " points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0"></polyline>\
           	            </g>\
           	        </g>\
@@ -156,7 +156,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       </div>\
 \
 \
-      <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="332.0px" datasizeheight="673.0px" dataX="21.5" dataY="101.0"   alt="image">\
+      <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="332.0px" datasizeheight="673.0px" dataX="21.5" dataY="101.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/36f85692-195f-4ff2-ac40-164e1d2c7115.png" />\
